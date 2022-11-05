@@ -1,0 +1,794 @@
+<menu>
+	<game name="TblAdventureLand">
+		<description>Adventure Land</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblArabianNights">
+		<description>Arabian Nights</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblAttackFromMars">
+		<description>Attack From Mars</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblBackToTheFuture">
+		<description>Back To The Future</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblBioLab">
+		<description>Bio Lab</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblBlackRose">
+		<description>Black Rose</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblCastleStorm">
+		<description>Castle Storm</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblChampionPub">
+		<description>Champion Pub</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblCirqusVoltaire">
+		<description>Crcus Voltaire</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblCreatureOfTheBlackLagoon">
+		<description>Creature from the Black Lagoon</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblCurseOfTheMummy">
+		<description>Curse of the Mummy</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblDrDude">
+		<description>Dr Dude</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblET">
+		<description>E.T.</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblFunHouse">
+		<description>Fun House</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblGrimTales">
+		<description>Grim Tales</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblHomeWorld">
+		<description>Home World</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblHurricane">
+		<description>Hurricane</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblIndianaJones">
+		<description>Indiana Jones</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblJaws">
+		<description>Jaws</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblJunkYard">
+		<description>Junk Yard</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblJurassicParkPinball">
+		<description>Jurassic Park Pinbal</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblJurassicParkPinballMayhem">
+		<description>Jurassic Park Pinball Mayhem</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblJurassicWorld">
+		<description>Jurassic World</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblMedievalMadness">
+		<description>Medieval Madness</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblMonsterBash">
+		<description>Monster Bash</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblMyLittlePony">
+		<description>My Little Pony</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblNoGoodGofers">
+		<description>No Good Goofers</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblPartyZone">
+		<description>Party Zone</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblPasha">
+		<description>Pasha</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblPinballNoir">
+		<description>Pinball Noir</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblRoadShow">
+		<description>Road Show</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblRome">
+		<description>Rome</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSafeCracker">
+		<description>Safe Cracker</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSecretsOfTheDeep">
+		<description>Secrets of the Deep</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSkyPirates">
+		<description>Sky Pirates</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSonOfZeus">
+		<description>Son Of Zeus</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSpaceStation">
+		<description>Space Station</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWNewHope">
+		<description>Star Wars A New Hope</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWAhchToIsland">
+		<description>Star Wars Ahch-To Island</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWBattleOfMimban">
+		<description>Star Wars Battle Of Mimban</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWBobaFett">
+		<description>Star Wars Boba Fett</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWCalrissianChronicles">
+		<description>Star Wars Calrissian Chronicles</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWClassicCollectibles">
+		<description>Star Wars Classic Collectibles</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWCloneWars">
+		<description>Star Wars Clone Wars</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWDarthVader">
+		<description>Star Wars Darth Vader</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWDroids">
+		<description>Star Wars Droids</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWHanSolo">
+		<description>Star Wars Han Solo</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWMastersOfTheForce">
+		<description>Star Wars Masters Of The Force</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWMightOfTheFirstOrder">
+		<description>Star Wars Might Of The First Order</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWRebels">
+		<description>Star Wars Rebels</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWReturnOfTheJedi">
+		<description>Star Wars Return Of The Jedi</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWRogueOne">
+		<description>Star Wars Rogue One</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWSolo">
+		<description>Star Wars Solo</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWStarfighterAssault">
+		<description>Star Wars Starfighter Assault</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWEmpireStrikesBack">
+		<description>Star Wars The Empire Strikes Back</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWForceAwakens">
+		<description>Star Wars The Force Awakens</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWTheLastJedi">
+		<description>Star Wars The Last Jedi</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSWMandalorian">
+		<description>Star Wars The Mandalorian</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSwordsOfFury">
+		<description>Swords of Fury</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblTheGetAway">
+		<description>The Get Away</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblTheMachineBrideOfPinBot">
+		<description>The Machine: Bride of Pinbot</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblTheatreOfMagic">
+		<description>Theatre Of Magic</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblWhiteWater">
+		<description>White Water</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblWildWest">
+		<description>Wild West Rampage</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblWorldCupSoccer">
+		<description>World Cup Soccer</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblWorldWarZ">
+		<description>World War Z</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+</menu>
