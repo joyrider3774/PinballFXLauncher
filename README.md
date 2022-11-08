@@ -6,6 +6,117 @@ A Launch Autohotkey script for pinball FX that adds per table launching support.
 ## Release / Help Video
 [![Pinball FX Launcher V1.0 Helper Video](http://img.youtube.com/vi/_XECsVwUTlI/0.jpg)](https://youtu.be/_XECsVwUTlI "Pinball FX Launcher V1.0 Helper Video")
 
+## Usage
+Compile To Exe (check video above) then use these commands
+
+```
+LaunchPinballFX.exe [TableName] [Mode]
+```
+
+Where `[TableName]` is the name of the table and `[Mode]` the game mode to play
+
+## Game Modes
+You can use any of the listed game mode values below for the `[Mode]` Parameter
+
+- Classic
+- Pro
+- Arcade
+- Hotseat2
+- Hotseat3
+- Hotseat4
+- Practice
+- Distance
+- Time
+- 1Ball
+- Flips 
+
+Pro mode is only available on Williams tables, if you select Pro Mode on another table it will use Classic Mode.
+If you don't Specify the game mode, it will always use classic mode
+
+## Table Names
+You can use any of the listed Table Name values below for the `[TableName]` Parameter
+
+### Zen Original Tables
+- TblAdventureLand
+- TblBioLab
+- TblCastleStorm
+- TblCurseOfTheMummy
+- TblGrimTales
+- TblPasha
+- TblPinballNoir
+- TblRome
+- TblSecretsOfTheDeep
+- TblSkyPirates
+- TblSonOfZeus
+- TblWildWest
+
+### Williams Tables
+- TblArabianNights
+- TblAttackFromMars
+- TblBlackRose
+- TblChampionPub
+- TblCirqusVoltaire
+- TblCreatureOfTheBlackLagoon
+- TblDrDude
+- TblFunHouse
+- TblHurricane
+- TblIndianaJones
+- TblJunkYard
+- TblMedievalMadness
+- TblMonsterBash
+- TblNoGoodGofers
+- TblPartyZone
+- TblRoadShow
+- TblSafeCracker
+- TblSpaceStation
+- TblSwordsOfFury
+- TblTheGetAway
+- TblTheMachineBrideOfPinBot
+- TblTheatreOfMagic
+- TblWhiteWater
+- TblWorldCupSoccer
+
+### Universal Tables
+- TblBackToTheFuture
+- TblET
+- TblJaws
+- TblJurassicParkPinball
+- TblJurassicParkPinballMayhem
+- TblJurassicWorld
+
+### Star Wars Tables
+- TblSWAhchToIsland
+- TblSWBattleOfMimban
+- TblSWBobaFett
+- TblSWCalrissianChronicles
+- TblSWClassicCollectibles
+- TblSWCloneWars
+- TblSWDarthVader
+- TblSWDroids
+- TblSWEmpireStrikesBack
+- TblSWForceAwakens
+- TblSWHanSolo
+- TblSWMandalorian
+- TblSWMastersOfTheForce
+- TblSWMightOfTheFirstOrder
+- TblSWNewHope
+- TblSWRebels
+- TblSWReturnOfTheJedi
+- TblSWRogueOne
+- TblSWSolo
+- TblSWStarfighterAssault
+- TblSWTheLastJedi
+
+### Paramount Tables
+- TblWorldWarZ
+
+### Hasbro Tables
+- TblMyLittlePony
+
+### Gearbox Tables
+- TblHomeWorld
+
+
 ## Cabinet setup pinball X
 
 ### Pinball X Settings 
