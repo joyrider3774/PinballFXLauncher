@@ -201,8 +201,8 @@ Run, "com.epicgames.launcher://apps/56a31432931740cdb0112d237d7d65aa?action=laun
 WinWait, PinballFX ahk_class UnrealWindow,, 120000
 if (ErrorLevel) 
 {
-    MsgBox, WinWait timed out.
-    exitapp
+	MsgBox, WinWait timed out.
+	exitapp
 }
 
 Sleep, WaitBeforeActivate
@@ -213,39 +213,36 @@ if (DoActivateWindow)
 	Sleep, 50
 }
 
-
 if (DoPlayBeeps) 
 {
 	SoundBeep, 500, 500
 }
 
-
-
 EnableCabinetMode() {
 
 	ControlSend ,, {ESC}, PinballFX ahk_class UnrealWindow
-	
+
 	Sleep, 1000
-	
+
 	Send {Down down}
 	Sleep, %KeyDelay%
 	Send {Down up}
 	Sleep, %KeyDelay%
-	
+
 	Sleep, 250
-	
+
 	Send {Enter down}
 	Sleep, %KeyDelay%
 	Send {Enter up}
 	Sleep, %KeyDelay%
-	
+
 	Sleep, 500
-	
+
 	Send {Enter down}
 	Sleep, %KeyDelay%
 	Send {Enter up}
 	Sleep, %KeyDelay%
-	
+
 	Sleep, 500
 
 	Send {Up down}
@@ -259,16 +256,16 @@ EnableCabinetMode() {
 	Sleep, %KeyDelay%
 	Send {Enter up}
 	Sleep, %KeyDelay%
-	
+
 
 	Sleep, 500
-	
+
 	ControlSend ,, {ESC}, PinballFX ahk_class UnrealWindow
-	
+
 	Sleep, 250
-	
+
 	ControlSend ,, {ESC}, PinballFX ahk_class UnrealWindow
-	
+
 }
 
 GotoMenu() {
@@ -277,14 +274,14 @@ GotoMenu() {
 	global WaitBeforeMenu
 	global DoPlayBeeps
 	global DoActivateWindow
-	
+
 	Sleep, %WaitBeforeGameLoad%
-	
+
 	if (DoPlayBeeps) 
 	{
 		SoundBeep, 500, 500
 	}
-	
+
 	if (DoActivateWindow) 
 	{
 		WinActivate, PinballFX ahk_class UnrealWindow
@@ -295,9 +292,9 @@ GotoMenu() {
 	Sleep, %KeyDelay%
 	Send {Enter up}
 	Sleep, %KeyDelay%
-	
+
 	Sleep, %WaitBeforeMenu%
-	
+
 	if (DoPlayBeeps) 
 	{
 		SoundBeep, 500, 500
@@ -306,24 +303,101 @@ GotoMenu() {
 	Return
 }
 
-;Send Enter + assumes correct position
-StartGame() {
+SelectGameMode(Tbl, GameMode) {
+	global GrpWilliams
 	global KeyDelay
-	
-	Send {Enter down}
-	Sleep, %KeyDelay%
-	Send {Enter up}
-	Sleep, %KeyDelay%
-	
-	Sleep, 750
-	
+
+	NumDownAdd := 0
+	NumDown := 0
+
+	if (GameMode = "Pro") {
+		NumDown := 0
+	}
+	if (GameMode = "Arcade") {
+		NumDown := 1
+	}
+	if ((GameMode = "Hotseat2") or (GameMode = "Hotseat3") or (GameMode = "Hotseat4")) {
+		NumDown := 2
+	}
+	if (GameMode = "Practice") {
+		NumDown := 3
+	}
+	if (GameMode = "Distance") {
+		NumDown := 4
+	}
+	if (GameMode = "Time") {
+		NumDown := 5
+	}
+	if (GameMode = "1Ball") {
+		NumDown := 6
+	}
+	if (GameMode = "Flips") {
+		NumDown := 7
+	}
+
+	;with williams table it shifts with one extra down after "Classic" mode because of the added "Pro" Mode
+	if ((Tbl[1] = GrpWilliams) and !(GameMode = "Classic")) {
+		NumDown := NumDown + 1
+	}
+
+	;Select The Mode by pressing down
+	Loop, %NumDown%
+	{
+		Send {Down down}
+		Sleep, %KeyDelay%
+		Send {Down up}
+		Sleep, %KeyDelay%
+		Sleep, 100
+	}
+
+	;Send right button to activate the mode
 	Send {Right down}
 	Sleep, %KeyDelay%
 	Send {Right up}
 	Sleep, %KeyDelay%
-	
+
 	Sleep, 700
-	
+
+	;in case of hotseat 3 player or 4 player still need to select that
+	if ((GameMode = "Hotseat3") or (GameMode = "Hotseat4")) {
+
+		Send {Up down}
+		Sleep, %KeyDelay%
+		Send {Up up}
+		Sleep, %KeyDelay%
+
+		Sleep, 100
+
+		if (GameMode = "Hotseat3") {
+			NumRight := 1
+		}
+
+		if (GameMode = "Hotseat4") {
+			NumRight := 2
+		}
+
+		Loop, %NumRight%
+		{
+			Send {Right down}
+			Sleep, %KeyDelay%
+			Send {Right up}
+			Sleep, %KeyDelay%
+			Sleep, 100
+		}
+
+		Send {Down down}
+		Sleep, %KeyDelay%
+		Send {Down up}
+		Sleep, %KeyDelay%
+
+		Sleep, 100
+	}
+}
+
+;Send Enter + assumes correct position
+StartGame() {
+	global KeyDelay	
+
 	Send {Enter down}
 	Sleep, %KeyDelay%
 	Send {Enter up}
@@ -335,7 +409,7 @@ StartGame() {
 SelectTable(Table) {
 	global KeyDelay
 	global DoActivateWindow
-	
+
 	if (DoActivateWindow) 
 	{
 		WinActivate, PinballFX ahk_class UnrealWindow
@@ -349,9 +423,9 @@ SelectTable(Table) {
 	Sleep, %KeyDelay%
 
 	Sleep, 500
-	
+
 	LoopGroupCount := (Table[1])
-	
+
 	Loop, %LoopGroupCount%
 	{
 		Send {Down down}
@@ -360,25 +434,25 @@ SelectTable(Table) {
 		Sleep, %KeyDelay%
 		Sleep, 250
 	}
-	
+
 	;need to send one return to select the group
 	Send {Return down}
 	Sleep, %KeyDelay%
 	Send {Return up}
 	Sleep, %KeyDelay%
-	
+
 	Sleep, 250
-	
+
 	;need to send one right to be on table selection
 	Send {Right down}
 	Sleep, %KeyDelay%
 	Send {Right up}
 	Sleep, %KeyDelay%
-	
+
 	Sleep, 100
-	
+
 	LoopRowCount := (Table[2])
-		
+
 	Loop, %LoopRowCount%
 	{
 		Send {Down down}
@@ -389,7 +463,7 @@ SelectTable(Table) {
 	}
 
 	LoopColCount := (Table[3])
-		
+
 	Loop, %LoopColCount%
 	{
 		Send {Right down}
@@ -400,19 +474,35 @@ SelectTable(Table) {
 	}
 
 	Sleep, 250
+
+	Send {Enter down}
+	Sleep, %KeyDelay%
+	Send {Enter up}
+	Sleep, %KeyDelay%
+
+	Sleep, 750
+
 	Return
 }
 
 
+tblname := A_Args[1]
+tblmode := A_Args[2]
+tbl := Eval(tblname)[1]
+if (tblmode = "")
+	tblmode := "Classic"
+
+if ((tblmode = "Pro") and !(tbl[1] = GrpWilliams))
+	tblmode := "Classic"
 
 GotoMenu()
 if (DoCabinetMode) 
 {
 	EnableCabinetMode()
 }
-tblname := A_Args[1]
-tbl := Eval(tblname)[1]
+
 SelectTable(tbl)
+SelectGameMode(tbl, tblmode)
 StartGame()
 
 Process, WaitClose, PinballFX-Win64-Shipping.exe
@@ -432,7 +522,7 @@ ExitApp
 
 #IfWinActive
 
-	
+
 killApp:
 	Send !{f4}
 	Process, Close, PinballFX-Win64-Shipping.exe
