@@ -131,6 +131,30 @@
 		<enabled>True</enabled>
 		<rating>0</rating>
 	</game>
+	<game name="TblDaily1">
+		<description>Daily Free 1</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
+	<game name="TblDaily2">
+		<description>Daily Free 2</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
 	<game name="TblDrDude">
 		<description>Dr Dude</description>
 		<rom></rom>

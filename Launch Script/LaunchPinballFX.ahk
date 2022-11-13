@@ -40,7 +40,7 @@ DoPlayBeeps := true
 DoActivateWindow := true
 
 ;-------- constants ----------
-
+GrpDailyFree := 1
 GrpGearBox := 5
 GrpHasBro := 6
 GrpParamount := 7
@@ -52,6 +52,9 @@ GrpZen := 11
 ;1st element (group) how many times to press down to select group
 ;2nd element how many times to press down to select row table is on
 ;3rd element how many times to press right to select table
+TblDaily1 := [GrpDailyFree,0,0]
+TblDaily2 := [GrpDailyFree,1,1]
+
 TblGrimTales := [GrpZen,0,0]
 TblCurseOfTheMummy := [GrpZen,0,1]
 TblPinballNoir := [GrpZen,0,2]
@@ -492,7 +495,7 @@ tbl := Eval(tblname)[1]
 if (tblmode = "")
 	tblmode := "Classic"
 
-if ((tblmode = "Pro") and !(tbl[1] = GrpWilliams))
+if (((tblmode = "Pro") and !(tbl[1] = GrpWilliams)) or (tbl[1] = GrpDailyFree))
 	tblmode := "Classic"
 
 GotoMenu()

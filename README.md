@@ -36,6 +36,10 @@ If you don't Specify the game mode, it will always use classic mode
 ## Table Names
 You can use any of the listed Table Name values below for the `[TableName]` Parameter
 
+### Daily Free Tables
+- TblDaily1
+- TblDaily2
+
 ### Zen Original Tables
 - TblAdventureLand
 - TblBioLab
