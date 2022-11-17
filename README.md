@@ -31,7 +31,7 @@ You can use any of the listed game mode values below for the `[Mode]` Parameter
 - Flips 
 
 Pro mode is only available on Williams tables, if you select Pro Mode on another table it will use Classic Mode.
-Daily Free Tables will also always start classic mode, as i have no way in determining the difference between a Williams and Non Williams Table.
+Daily Free Tables will also always start classic mode as when you don't own the tables only classic mode is availble.
 If you don't Specify the game mode, it will always use classic mode
 
 ## Table Names
@@ -54,6 +54,7 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblSkyPirates
 - TblSonOfZeus
 - TblWildWest
+- TblWrathOfTheElderGods
 
 ### Williams Tables
 - TblArabianNights

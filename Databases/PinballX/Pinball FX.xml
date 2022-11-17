@@ -815,4 +815,16 @@
 		<enabled>True</enabled>
 		<rating>0</rating>
 	</game>
+	<game name="TblWrathOfTheElderGods">
+		<description>Wrath Of The Elder Gods</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
 </menu>
