@@ -147,6 +147,11 @@ powershell -Command "Start-Process 'irotate.exe' '/2:rotate=0 /exit' -Verb runAs
 
 You can also use my [pinball launcher app](https://github.com/joyrider3774/PinballX_Launcher_app/tree/master/other_games/Pinball%20FX) with a specific ini file for this launch script to select all the new game modes more easily if your frontend does not support selecting these by default. I think pinup popper does have these options, but pinball x/y does not.
 
+## Media Preview:
+- [Docklet Wheels](DockletWheelsPreview.md)
+- [Backglasses](BackglassesPreview.md)
+- [Tables](TablesPreview.md)
+
 ## Credits:
 - Docklet logo's are taken randomly from internet and what i had on my pinball cabinet for pinball FX3
 - Docklet images themselves mostly come from the backglasses from [this dropbox link](https://www.dropbox.com/sh/l4so158sh8s2ewx/AACO7ZCV5LAOw2I_fORzspZ5a/Cabinet?dl=0&subfolder_nav_tracking=1)
