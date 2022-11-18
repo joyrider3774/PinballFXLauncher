@@ -1,5 +1,5 @@
 # Pinball FX Launcher 
-![DownloadCountTotal](https://img.shields.io/github/downloads/joyrider3774/PinballFXLauncher/total?label=total%20downloads&style=plastic) ![DownloadCountLatest](https://img.shields.io/github/downloads/joyrider3774/PinballFXLauncher/latest/total?style=plastic) ![LatestVersion](https://img.shields.io/github/v/tag/joyrider3774/PinballFXLauncher?label=Latest%20version&style=plastic) ![License](https://img.shields.io/github/license/joyrider3774/PinballFXLauncher?style=plastic)
+[![Download Latest Version](https://img.shields.io/github/v/tag/joyrider3774/PinballFXLauncher?label=Latest%20version&style=plastic)](https://github.com/joyrider3774/PinballFXLauncher/releases/tag/v5.0 "Download Latest Version") ![License](https://img.shields.io/github/license/joyrider3774/PinballFXLauncher?style=plastic)
 
 A Launch Autohotkey script for pinball FX that adds per table launching support. Plus a collection of docklet wheel images that go with it
 
