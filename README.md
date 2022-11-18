@@ -149,6 +149,12 @@ You can also use my [pinball launcher app](https://github.com/joyrider3774/Pinba
 
 ## Credits:
 - Docklet logo's are taken randomly from internet and what i had on my pinball cabinet for pinball FX3
-- Docklet images themselves mostly come from the backglasses from this url https://www.dropbox.com/sh/l4so158sh8s2ewx/AACO7ZCV5LAOw2I_fORzspZ5a/Cabinet?dl=0&subfolder_nav_tracking=1 (you can also use these for your pinball FX setup)
+- Docklet images themselves mostly come from the backglasses from [this dropbox link](https://www.dropbox.com/sh/l4so158sh8s2ewx/AACO7ZCV5LAOw2I_fORzspZ5a/Cabinet?dl=0&subfolder_nav_tracking=1)
 - Docklet template comes from pinball x forums from the zaccaria docklet wheel topic
 - script uses eval function made by Pulover [Rodolfo U. Batista] and by Uberi (ExprEval())
+- Table Images i made myself using the screenshot function from [Pinball X](https://www.pinballx.com/)
+- Backglass images were initially taken from [this dropbox link](https://www.dropbox.com/sh/l4so158sh8s2ewx/AACO7ZCV5LAOw2I_fORzspZ5a/Cabinet?dl=0&subfolder_nav_tracking=1)
+- Certain backglasses are intially made by "TheTrainGoes" see his github [here](https://github.com/TheTrainGoes/Pinball-FX3-Backglass) 
+- Certain backglasses are from promotional images from Zen Studios.
+- I Edited certain backglasses, i tried to either remove PFX2/3 logos or replace it with a pinball FX Logo
+- On certain other backglasses i added a "Table" logo as i prefer to see the table names in the backglasses.
