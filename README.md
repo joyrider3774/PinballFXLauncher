@@ -6,6 +6,11 @@ A Launch Autohotkey script for pinball FX that adds per table launching support.
 ## Release / Help Video
 [![Pinball FX Launcher V1.0 Helper Video](http://img.youtube.com/vi/_XECsVwUTlI/0.jpg)](https://youtu.be/_XECsVwUTlI "Pinball FX Launcher V1.0 Helper Video")
 
+## Media Preview:
+- [Docklet Wheels](DockletWheelsPreview.md)
+- [Backglasses](BackglassesPreview.md)
+- [Tables](TablesPreview.md)
+
 ## Usage
 Compile To Exe (check video above) then use these commands
 
@@ -146,11 +151,6 @@ powershell -Command "Start-Process 'irotate.exe' '/2:rotate=0 /exit' -Verb runAs
 ![pinball FX launcher app](https://github.com/joyrider3774/PinballX_Launcher_app/raw/master/other_games/Pinball%20FX/launcher.png)
 
 You can also use my [pinball launcher app](https://github.com/joyrider3774/PinballX_Launcher_app/tree/master/other_games/Pinball%20FX) with a specific ini file for this launch script to select all the new game modes more easily if your frontend does not support selecting these by default. I think pinup popper does have these options, but pinball x/y does not.
-
-## Media Preview:
-- [Docklet Wheels](DockletWheelsPreview.md)
-- [Backglasses](BackglassesPreview.md)
-- [Tables](TablesPreview.md)
 
 ## Credits:
 - Docklet logo's are taken randomly from internet and what i had on my pinball cabinet for pinball FX3
