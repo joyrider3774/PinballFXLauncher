@@ -156,7 +156,7 @@ You can also use my [pinball launcher app](https://github.com/joyrider3774/Pinba
 
 ### Popper Settings 
 compile the provided script to an EXE and make sure it's working then add a new emulator using these settings and import the games from exported game list i made
-<IMG src="meta/poppersetings.png"/>
+<IMG src="meta/poppersettings.png"/>
 
 ### Launch Script
 ```
