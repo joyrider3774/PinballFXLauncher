@@ -152,6 +152,54 @@ powershell -Command "Start-Process 'irotate.exe' '/2:rotate=0 /exit' -Verb runAs
 
 You can also use my [pinball launcher app](https://github.com/joyrider3774/PinballX_Launcher_app/tree/master/other_games/Pinball%20FX) with a specific ini file for this launch script to select all the new game modes more easily if your frontend does not support selecting these by default. I think pinup popper does have these options, but pinball x/y does not.
 
+## Cabinet setup Pinup Popper
+
+### Popper Settings 
+compile the provided script to an EXE and make sure it's working then add a new emulator using these settings and import the games from exported game list i made
+<IMG src="meta/poppersetings.png"/>
+
+### Launch Script
+```
+@echo off
+
+REM Change /device 1 to your device id for your playfield screen
+
+START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 90
+
+timeout 2
+
+REM if you prefer classic mode also for williams tables set PRO on Next line below to Classic
+
+SET ALTPARAM=Pro
+if "[ALTMODE]"=="Classic" (SET ALTPARAM=Classic )
+if "[ALTMODE]"=="Pro" (SET ALTPARAM=Pro )
+if "[ALTMODE]"=="Arcade" (SET ALTPARAM=Arcade )
+if "[ALTMODE]"=="Hotseat2" (SET ALTPARAM=Hotseat2 )
+if "[ALTMODE]"=="Hotseat3" (SET ALTPARAM=Hotseat3 )
+if "[ALTMODE]"=="Hotseat4" (SET ALTPARAM=Hotseat4 )
+if "[ALTMODE]"=="1Ball" (SET ALTPARAM=1Ball )
+if "[ALTMODE]"=="Time" (SET ALTPARAM=Time )
+if "[ALTMODE]"=="Distance" (SET ALTPARAM=Distance )
+if "[ALTMODE]"=="Flips" (SET ALTPARAM=Flips )
+if "[ALTMODE]"=="Practice" (SET ALTPARAM=Practice )
+
+START "" "[DIREMU]\LaunchPinballFX.exe" [GAMENAME] %ALTPARAM%
+
+timeout 5
+
+START "" "[STARTDIR]Launch\VPXSTARTER.exe" 10 10 60 "PinballFX"
+
+```
+
+### Close Script
+```
+START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 0
+timeout 2
+"[STARTDIR]LAUNCH\PUPCLOSER.EXE" WINTIT "PinballFX" 5 1
+timeout 1
+taskkill /f /im epicgameslauncher.exe
+```
+
 ## Credits:
 - Docklet logo's are taken randomly from internet and what i had on my pinball cabinet for pinball FX3
 - Docklet images themselves mostly come from the backglasses from [this dropbox link](https://www.dropbox.com/sh/l4so158sh8s2ewx/AACO7ZCV5LAOw2I_fORzspZ5a/Cabinet?dl=0&subfolder_nav_tracking=1)
