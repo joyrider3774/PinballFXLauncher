@@ -4,7 +4,13 @@
 A Launch Autohotkey script for pinball FX that adds per table launching support. Plus a collection of docklet wheel images that go with it
 
 ## Release / Help Video
+
+### Script install / usage instructions (see this first)
 [![Pinball FX Launcher V1.0 Helper Video](http://img.youtube.com/vi/_XECsVwUTlI/0.jpg)](https://youtu.be/_XECsVwUTlI "Pinball FX Launcher V1.0 Helper Video")
+
+### Pinup Popper install instructions
+[![Pinball FX Launcher Pinup Popper Helper Video](http://img.youtube.com/vi/XlcSQ_hOWcA/0.jpg)](https://youtu.be/XlcSQ_hOWcA "Pinball FX Launcher Pinup Popper Helper Video")
+
 
 ## Media Preview:
 - [Docklet Wheels](DockletWheelsPreview.md)
