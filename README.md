@@ -164,6 +164,8 @@ You can also use my [pinball launcher app](https://github.com/joyrider3774/Pinba
 compile the provided script to an EXE and make sure it's working then add a new emulator using these settings and import the games from [exported game](https://raw.githubusercontent.com/joyrider3774/PinballFXLauncher/main/Databases/Popper/Export_Pinball%20FX.pupgames) list i made (Use right click save as)
 Also download Display.exe from this [zip file](https://www.nailbuster.com/uploads/PopperFXMirror.zip) made by NailBuster so you can rotate the screen. Extract this in `PinUPPopper\Launch` directory
 
+## Credits
+* stang-retro geradg: Adding tags and manufactors to pinup popper database as well as playtesting the script in pinup popper
 <IMG src="meta/poppersettings.png"/>
 
 ### Launch Script
