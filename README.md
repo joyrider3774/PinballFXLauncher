@@ -164,8 +164,6 @@ You can also use my [pinball launcher app](https://github.com/joyrider3774/Pinba
 compile the provided script to an EXE and make sure it's working then add a new emulator using these settings and import the games from [exported game](https://raw.githubusercontent.com/joyrider3774/PinballFXLauncher/main/Databases/Popper/Export_Pinball%20FX.pupgames) list i made (Use right click save as)
 Also download Display.exe from this [zip file](https://www.nailbuster.com/uploads/PopperFXMirror.zip) made by NailBuster so you can rotate the screen. Extract this in `PinUPPopper\Launch` directory
 
-## Credits
-* stang-retro geradg: Adding tags and manufactors to pinup popper database as well as playtesting the script in pinup popper
 <IMG src="meta/poppersettings.png"/>
 
 ### Launch Script
@@ -211,6 +209,7 @@ taskkill /f /im epicgameslauncher.exe
 ```
 
 ## Credits:
+- stang-retro geradg: Adding tags and manufactors to pinup popper database as well as playtesting the script in pinup popper
 - Docklet logo's are taken randomly from internet and what i had on my pinball cabinet for pinball FX3
 - Docklet images themselves mostly come from the backglasses from [this dropbox link](https://www.dropbox.com/sh/l4so158sh8s2ewx/AACO7ZCV5LAOw2I_fORzspZ5a/Cabinet?dl=0&subfolder_nav_tracking=1)
 - Docklet template comes from pinball x forums from the zaccaria docklet wheel topic
