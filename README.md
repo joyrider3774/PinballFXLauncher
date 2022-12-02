@@ -13,6 +13,7 @@ A Launch Autohotkey script for pinball FX that adds per table launching support.
 
 
 ## Media Preview:
+- [Tarcisio Wheels](TarcisioWheelsPreview.md)
 - [Docklet Wheels](DockletWheelsPreview.md)
 - [Backglasses](BackglassesPreview.md)
 - [Tables](TablesPreview.md)
