@@ -214,6 +214,7 @@ taskkill /f /im epicgameslauncher.exe
 - Docklet logo's are taken randomly from internet and what i had on my pinball cabinet for pinball FX3
 - Docklet images themselves mostly come from the backglasses from [this dropbox link](https://www.dropbox.com/sh/l4so158sh8s2ewx/AACO7ZCV5LAOw2I_fORzspZ5a/Cabinet?dl=0&subfolder_nav_tracking=1)
 - Docklet template comes from pinball x forums from the zaccaria docklet wheel topic
+- Tarcisio wheel image used template from [NailBuster](https://www.nailbuster.com/pup/tar_wheel.png)
 - script uses eval function made by Pulover [Rodolfo U. Batista] and by Uberi (ExprEval())
 - Table Images i made myself using the screenshot function from [Pinball X](https://www.pinballx.com/)
 - Backglass images were initially taken from [this dropbox link](https://www.dropbox.com/sh/l4so158sh8s2ewx/AACO7ZCV5LAOw2I_fORzspZ5a/Cabinet?dl=0&subfolder_nav_tracking=1)
