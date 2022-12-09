@@ -177,6 +177,14 @@ START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 90
 
 timeout 2
 
+REM backglass Videos from popper seems to stop playing sometimes when activating cabinet mode in the game
+REM so this is a workaround to using ffplay.exe from ffmpeg to replay the videos, ffplay seems unaffected
+REM by this problem so replaying the videos through that will work 
+REM Remove REM below and make sure you have ffplay.exe in the launch directory and have adapted position
+REM settings for your backglass position
+REM start /min "" "[STARTDIR]Launch\ffplay.exe" -left 1080 -top 0 -x 1920 -y 1080 -alwaysontop -noborder -loop 0 "[MEDIADIR]backglass\[GAMENAME].mp4"
+
+
 REM if you prefer classic mode also for williams tables set PRO on Next line below to Classic
 
 SET ALTPARAM=Pro
@@ -207,6 +215,7 @@ timeout 2
 "[STARTDIR]LAUNCH\PUPCLOSER.EXE" WINTIT "PinballFX" 5 1
 timeout 1
 taskkill /f /im epicgameslauncher.exe
+taskkill /f /IM ffplay.exe
 ```
 
 ## Credits:
