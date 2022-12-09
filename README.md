@@ -53,6 +53,11 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblDaily1
 - TblDaily2
 
+### DreamWorks Tables
+- TblDragonsPinball (not released yet)
+- TblKungFuPandaPinball (not released yet)
+- TblTrollsPinball (not released yet)
+
 ### Zen Original Tables
 - TblAdventureLand
 - TblBioLab
@@ -64,6 +69,7 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblRome
 - TblSecretsOfTheDeep
 - TblSkyPirates
+- TblSnoopyPinball (not released yet)
 - TblSonOfZeus
 - TblWildWest
 - TblWrathOfTheElderGods
@@ -88,6 +94,7 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblSafeCracker
 - TblSpaceStation
 - TblSwordsOfFury
+- TblTheAddamsFamily (not released yet)
 - TblTheGetAway
 - TblTheMachineBrideOfPinBot
 - TblTheatreOfMagic
