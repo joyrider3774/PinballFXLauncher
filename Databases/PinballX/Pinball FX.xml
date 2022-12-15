@@ -141,7 +141,7 @@
 		<hidetopper>True</hidetopper>
 		<hidebackglass>True</hidebackglass>
 		<enabled>True</enabled>
-		<rating>-2</rating>
+		<rating>0</rating>
 	</game>
 	<game name="TblDaily2">
 		<description>Daily Free 2</description>
@@ -153,7 +153,7 @@
 		<hidetopper>True</hidetopper>
 		<hidebackglass>True</hidebackglass>
 		<enabled>True</enabled>
-		<rating>-2</rating>
+		<rating>0</rating>
 	</game>
 	<game name="TblDrDude">
 		<description>Dr Dude</description>
@@ -205,6 +205,18 @@
 	</game>
 	<game name="TblHomeWorld">
 		<description>Home World</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblDragonsPinball">
+		<description>How To Train Your Dragon Pinball</description>
 		<rom></rom>
 		<manufacturer>Zen Studios</manufacturer>
 		<year></year>
@@ -289,6 +301,18 @@
 	</game>
 	<game name="TblJurassicWorld">
 		<description>Jurassic World</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblKungFuPandaPinball">
+		<description>Kung Fu Panda Pinball</description>
 		<rom></rom>
 		<manufacturer>Zen Studios</manufacturer>
 		<year></year>
@@ -433,6 +457,18 @@
 	</game>
 	<game name="TblSkyPirates">
 		<description>Sky Pirates</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblSnoopyPinball">
+		<description>Snoopy Pinball</description>
 		<rom></rom>
 		<manufacturer>Zen Studios</manufacturer>
 		<year></year>
@@ -757,6 +793,18 @@
 	</game>
 	<game name="TblTheatreOfMagic">
 		<description>Theatre Of Magic</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>0</rating>
+	</game>
+	<game name="TblTrollsPinball">
+		<description>Trolls Pinball</description>
 		<rom></rom>
 		<manufacturer>Zen Studios</manufacturer>
 		<year></year>
