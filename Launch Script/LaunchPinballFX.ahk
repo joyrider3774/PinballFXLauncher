@@ -41,20 +41,107 @@ DoActivateWindow := true
 
 ;-------- constants ----------
 GrpDailyFree := 1
-GrpGearBox := 5
-GrpHasBro := 6
-GrpParamount := 7
-GrpStarWars := 8
-GrpUniversal := 9
-GrpWilliams := 10
-GrpZen := 11
+GrpDreamWorks := 5
+GrpGearBox := 6
+GrpHasBro := 7
+GrpParamount := 8
+GrpPeanuts := 9
+GrpStarWars := 10
+GrpUniversal := 11
+GrpWilliams := 12
+GrpZen := 13
 
 ;1st element (group) how many times to press down to select group
 ;2nd element how many times to press down to select row table is on
 ;3rd element how many times to press right to select table
+
+;--------------- Daily ------------------
 TblDaily1 := [GrpDailyFree,0,0]
 TblDaily2 := [GrpDailyFree,1,1]
 
+;--------------- DreamWorks ------------------
+TblTrollsPinball := [GrpDreamWorks,0,0]
+TblDragonsPinball := [GrpDreamWorks,0,1]
+TblKungFuPandaPinball := [GrpDreamWorks,0,2]
+
+;--------------- Gearbox ------------------
+TblHomeWorld := [GrpGearBox,0,0]
+
+;--------------- Hasbro ------------------
+TblMyLittlePony := [GrpHasBro,0,0]
+
+;--------------- Paramount ------------------
+TblWorldWarZ := [GrpParamount,0,0]
+
+;--------------- Peanuts ------------------
+TblSnoopyPinball := [GrpPeanuts,0,0]
+
+;--------------- Star Wars ------------------
+TblSWSolo := [GrpStarWars,0,0]
+TblSWCalrissianChronicles := [GrpStarWars,0,1]
+TblSWBattleOfMimban := [GrpStarWars,0,2]
+TblSWTheLastJedi := [GrpStarWars,0,3]
+TblSWAhchToIsland := [GrpStarWars,1,4]
+
+TblSWRogueOne := [GrpStarWars,1,0]
+TblSWRebels := [GrpStarWars,1,1]
+TblSWForceAwakens := [GrpStarWars,1,2]
+TblSWMightOfTheFirstOrder := [GrpStarWars,1,3]
+TblSWReturnOfTheJedi := [GrpStarWars,1,4]
+
+TblSWDarthVader := [GrpStarWars,2,0]
+TblSWStarfighterAssault := [GrpStarWars,2,1]
+TblSWMandalorian := [GrpStarWars,2,2]
+TblSWClassicCollectibles := [GrpStarWars,2,3]
+TblSWHanSolo := [GrpStarWars,2,4]
+
+TblSWDroids := [GrpStarWars,3,0]
+TblSWNewHope := [GrpStarWars,3,1]
+TblSWMastersOfTheForce := [GrpStarWars,3,2]
+TblSWEmpireStrikesBack := [GrpStarWars,3,3]
+TblSWCloneWars := [GrpStarWars,3,4]
+
+TblSWBobaFett := [GrpStarWars,4,0]
+;--------------- Paramount ------------------
+TblJurassicWorld := [GrpUniversal,0,0]
+TblJurassicParkPinball := [GrpUniversal,0,1]
+TblJurassicParkPinballMayhem := [GrpUniversal,0,2]
+TblBackToTheFuture := [GrpUniversal,0,3]
+TblJaws := [GrpUniversal,0,4]
+
+TblET := [GrpUniversal,1,0]
+
+;--------------- Williams ------------------
+TblWorldCupSoccer := [GrpWilliams,0,0]
+TblTheMachineBrideOfPinBot := [GrpWilliams,0,1]
+TblFunHouse := [GrpWilliams,0,2]
+TblSpaceStation := [GrpWilliams,0,3]
+TblDrDude := [GrpWilliams,0,4]
+
+TblSwordsOfFury := [GrpWilliams,1,0]
+TblCirqusVoltaire := [GrpWilliams,1,1]
+TblNoGoodGofers := [GrpWilliams,1,2]
+TblArabianNights := [GrpWilliams,1,3]
+TblWhiteWater := [GrpWilliams,1,4]
+
+TblRoadShow := [GrpWilliams,2,0]
+TblHurricane := [GrpWilliams,2,1]
+TblIndianaJones := [GrpWilliams,2,2]
+TblMonsterBash := [GrpWilliams,2,3]
+TblCreatureOfTheBlackLagoon := [GrpWilliams,2,4]
+
+TblTheatreOfMagic := [GrpWilliams,3,0]
+TblChampionPub := [GrpWilliams,3,1]
+TblSafeCracker := [GrpWilliams,3,2]
+TblBlackRose := [GrpWilliams,3,3]
+TblAttackFromMars := [GrpWilliams,3,4]
+
+TblPartyZone := [GrpWilliams,4,0]
+TblTheGetAway := [GrpWilliams,4,1]
+TblJunkYard := [GrpWilliams,4,2]
+TblMedievalMadness := [GrpWilliams,4,3]
+
+;--------------- Zen Originals ------------------
 TblWrathOfTheElderGods := [GrpZen,0,0]
 TblGrimTales := [GrpZen,0,1]
 TblCurseOfTheMummy := [GrpZen,0,2]
@@ -69,68 +156,7 @@ TblPasha := [GrpZen,2,0]
 TblRome := [GrpZen,2,1]
 TblSecretsOfTheDeep := [GrpZen,2,2]
 
-TblWorldCupSoccer := [GrpWilliams,0,0]
-TblTheMachineBrideOfPinBot := [GrpWilliams,0,1]
-TblFunHouse := [GrpWilliams,0,2]
-TblSpaceStation := [GrpWilliams,0,3]
-TblDrDude := [GrpWilliams,0,4]
-TblSwordsOfFury := [GrpWilliams,1,0]
-TblCirqusVoltaire := [GrpWilliams,1,1]
-TblNoGoodGofers := [GrpWilliams,1,2]
-TblArabianNights := [GrpWilliams,1,3]
-TblWhiteWater := [GrpWilliams,1,4]
-TblRoadShow := [GrpWilliams,2,0]
-TblHurricane := [GrpWilliams,2,1]
-TblIndianaJones := [GrpWilliams,2,2]
-TblMonsterBash := [GrpWilliams,2,3]
-TblCreatureOfTheBlackLagoon := [GrpWilliams,2,4]
-TblTheatreOfMagic := [GrpWilliams,3,0]
-TblChampionPub := [GrpWilliams,3,1]
-TblSafeCracker := [GrpWilliams,3,2]
-TblBlackRose := [GrpWilliams,3,3]
-TblAttackFromMars := [GrpWilliams,3,4]
-TblPartyZone := [GrpWilliams,4,0]
-TblTheGetAway := [GrpWilliams,4,1]
-TblJunkYard := [GrpWilliams,4,2]
-TblMedievalMadness := [GrpWilliams,4,3]
-
-TblJurassicWorld := [GrpUniversal,0,0]
-TblJurassicParkPinball := [GrpUniversal,0,1]
-TblJurassicParkPinballMayhem := [GrpUniversal,0,2]
-TblBackToTheFuture := [GrpUniversal,0,3]
-TblJaws := [GrpUniversal,0,4]
-TblET := [GrpUniversal,1,0]
-
-TblSWSolo := [GrpStarWars,0,0]
-TblSWBattleOfMimban := [GrpStarWars,0,1]
-TblSWTheLastJedi := [GrpStarWars,0,2]
-TblSWRogueOne := [GrpStarWars,0,3]
-TblSWForceAwakens := [GrpStarWars,0,4]
-TblSWDarthVader := [GrpStarWars,1,0]
-TblSWStarfighterAssault := [GrpStarWars,1,1]
-TblSWMightOfTheFirstOrder := [GrpStarWars,1,2]
-TblSWCalrissianChronicles := [GrpStarWars,1,3]
-TblSWAhchToIsland := [GrpStarWars,1,4]
-TblSWRebels := [GrpStarWars,2,0]
-TblSWReturnOfTheJedi := [GrpStarWars,2,1]
-TblSWMandalorian := [GrpStarWars,2,2]
-TblSWClassicCollectibles := [GrpStarWars,2,3]
-TblSWHanSolo := [GrpStarWars,2,4]
-TblSWDroids := [GrpStarWars,3,0]
-TblSWNewHope := [GrpStarWars,3,1]
-TblSWMastersOfTheForce := [GrpStarWars,3,2]
-TblSWEmpireStrikesBack := [GrpStarWars,3,3]
-TblSWCloneWars := [GrpStarWars,3,4]
-TblSWBobaFett := [GrpStarWars,4,0]
-
-TblWorldWarZ := [GrpParamount,0,0]
-
-TblMyLittlePony := [GrpHasBro,0,0]
-
-TblHomeWorld := [GrpGearBox,0,0]
-
 ;-------- Aliases as per zen's naming -----------
-
 Table_2 := TblSWMastersOfTheForce
 Table_6 := TblSWStarfighterAssault
 Table_10 := TblSWHanSolo
@@ -191,6 +217,10 @@ Table_135 := TblDrDude
 Table_136 := TblSWMandalorian
 Table_137 := TblSWClassicCollectibles
 Table_138 := TblMyLittlePony
+Table_139 := TblKungFuPandaPinball
+Table_140 := TblTrollsPinball
+Table_141 := TblDragonsPinball
+Table_146 := TblSnoopyPinball
 Table_147 := TblWrathOfTheElderGods
 Table_148 := TblTheMachineBrideOfPinBot
 Table_149 := TblSwordsOfFury
