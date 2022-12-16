@@ -10,6 +10,9 @@
 ## Paramount
 <img width="192" height="108" src="Media/Backglass%20Images/TblWorldWarZ.png">
 
+## Peanuts
+<img width="192" height="108" src="Media/Backglass%20Images/TblSnoopyPinball.png">
+
 ## Star Wars
 <img width="192" height="108" src="Media/Backglass%20Images/TblSWAhchToIsland.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWBattleOfMimban.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWBobaFett.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWCalrissianChronicles.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWClassicCollectibles.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWCloneWars.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWDarthVader.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWDroids.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWEmpireStrikesBack.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWForceAwakens.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWHanSolo.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWMandalorian.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWMastersOfTheForce.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWMightOfTheFirstOrder.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWNewHope.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWRebels.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWReturnOfTheJedi.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWRogueOne.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWSolo.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWStarfighterAssault.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblSWTheLastJedi.png">
 

@@ -54,25 +54,52 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblDaily2
 
 ### DreamWorks Tables
-- TblDragonsPinball (not released yet)
-- TblKungFuPandaPinball (not released yet)
-- TblTrollsPinball (not released yet)
+- TblDragonsPinball
+- TblKungFuPandaPinball
+- TblTrollsPinball
 
-### Zen Original Tables
-- TblAdventureLand
-- TblBioLab
-- TblCastleStorm
-- TblCurseOfTheMummy
-- TblGrimTales
-- TblPasha
-- TblPinballNoir
-- TblRome
-- TblSecretsOfTheDeep
-- TblSkyPirates
-- TblSnoopyPinball (not released yet)
-- TblSonOfZeus
-- TblWildWest
-- TblWrathOfTheElderGods
+### Hasbro Tables
+- TblMyLittlePony
+
+### Gearbox Tables
+- TblHomeWorld
+
+### Paramount Tables
+- TblWorldWarZ
+
+### Peanuts Tables
+- TblSnoopyPinball
+
+### Star Wars Tables
+- TblSWAhchToIsland
+- TblSWBattleOfMimban
+- TblSWBobaFett
+- TblSWCalrissianChronicles
+- TblSWClassicCollectibles
+- TblSWCloneWars
+- TblSWDarthVader
+- TblSWDroids
+- TblSWEmpireStrikesBack
+- TblSWForceAwakens
+- TblSWHanSolo
+- TblSWMandalorian
+- TblSWMastersOfTheForce
+- TblSWMightOfTheFirstOrder
+- TblSWNewHope
+- TblSWRebels
+- TblSWReturnOfTheJedi
+- TblSWRogueOne
+- TblSWSolo
+- TblSWStarfighterAssault
+- TblSWTheLastJedi
+
+### Universal Tables
+- TblBackToTheFuture
+- TblET
+- TblJaws
+- TblJurassicParkPinball
+- TblJurassicParkPinballMayhem
+- TblJurassicWorld
 
 ### Williams Tables
 - TblArabianNights
@@ -101,46 +128,20 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblWhiteWater
 - TblWorldCupSoccer
 
-### Universal Tables
-- TblBackToTheFuture
-- TblET
-- TblJaws
-- TblJurassicParkPinball
-- TblJurassicParkPinballMayhem
-- TblJurassicWorld
-
-### Star Wars Tables
-- TblSWAhchToIsland
-- TblSWBattleOfMimban
-- TblSWBobaFett
-- TblSWCalrissianChronicles
-- TblSWClassicCollectibles
-- TblSWCloneWars
-- TblSWDarthVader
-- TblSWDroids
-- TblSWEmpireStrikesBack
-- TblSWForceAwakens
-- TblSWHanSolo
-- TblSWMandalorian
-- TblSWMastersOfTheForce
-- TblSWMightOfTheFirstOrder
-- TblSWNewHope
-- TblSWRebels
-- TblSWReturnOfTheJedi
-- TblSWRogueOne
-- TblSWSolo
-- TblSWStarfighterAssault
-- TblSWTheLastJedi
-
-### Paramount Tables
-- TblWorldWarZ
-
-### Hasbro Tables
-- TblMyLittlePony
-
-### Gearbox Tables
-- TblHomeWorld
-
+### Zen Original Tables
+- TblAdventureLand
+- TblBioLab
+- TblCastleStorm
+- TblCurseOfTheMummy
+- TblGrimTales
+- TblPasha
+- TblPinballNoir
+- TblRome
+- TblSecretsOfTheDeep
+- TblSkyPirates
+- TblSonOfZeus
+- TblWildWest
+- TblWrathOfTheElderGods
 
 ## Cabinet setup pinball X
 

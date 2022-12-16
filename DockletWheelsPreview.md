@@ -13,6 +13,9 @@
 ## Paramount
 <img width="136" height="103" src="Media/Docklet%20Wheels/TblWorldWarZ.png">
 
+## Peanuts
+<img width="136" height="103" src="Media/Docklet%20Wheels/TblSnoopyPinball.png">
+
 ## Star Wars
 <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWAhchToIsland.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWBattleOfMimban.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWBobaFett.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWCalrissianChronicles.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWClassicCollectibles.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWCloneWars.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWDarthVader.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWDroids.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWEmpireStrikesBack.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWForceAwakens.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWHanSolo.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWMandalorian.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWMastersOfTheForce.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWMightOfTheFirstOrder.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWNewHope.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWRebels.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWReturnOfTheJedi.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWRogueOne.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWSolo.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWStarfighterAssault.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblSWTheLastJedi.png">
 
