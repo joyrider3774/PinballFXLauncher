@@ -58,6 +58,10 @@ ren TblDrDude.png Table_135.png
 ren TblSWMandalorian.png Table_136.png
 ren TblSWClassicCollectibles.png Table_137.png
 ren TblMyLittlePony.png Table_138.png
+ren TblKungFuPandaPinball.png Table_139.png 
+ren TblTrollsPinball.png Table_140.png 
+ren TblDragonsPinball.png Table_141.png 
+ren TblSnoopyPinball.png Table_146.png 
 ren TblWrathOfTheElderGods.png Table_147.png
 ren TblTheMachineBrideOfPinBot.png Table_148.png
 ren TblSwordsOfFury.png Table_149.png
