@@ -81,7 +81,7 @@ TblSWSolo := [GrpStarWars,0,0]
 TblSWCalrissianChronicles := [GrpStarWars,0,1]
 TblSWBattleOfMimban := [GrpStarWars,0,2]
 TblSWTheLastJedi := [GrpStarWars,0,3]
-TblSWAhchToIsland := [GrpStarWars,1,4]
+TblSWAhchToIsland := [GrpStarWars,0,4]
 
 TblSWRogueOne := [GrpStarWars,1,0]
 TblSWRebels := [GrpStarWars,1,1]
