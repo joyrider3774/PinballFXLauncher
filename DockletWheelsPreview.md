@@ -8,7 +8,7 @@
 <img width="136" height="103" src="Media/Docklet%20Wheels/TblMyLittlePony.png">
 
 ## Gearbox
-<img width="136" height="103" src="Media/Docklet%20Wheels/TblHomeWorld.png">
+<img width="136" height="103" src="Media/Docklet%20Wheels/TblBorderlands.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblBrotherInArms.png"> <img width="136" height="103" src="Media/Docklet%20Wheels/TblHomeWorld.png">
 
 ## Paramount
 <img width="136" height="103" src="Media/Docklet%20Wheels/TblWorldWarZ.png">

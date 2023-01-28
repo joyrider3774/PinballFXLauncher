@@ -62,6 +62,8 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblMyLittlePony
 
 ### Gearbox Tables
+- TblBorderlands (not released yet)
+- TblBrotherInArms (not released yet)
 - TblHomeWorld
 
 ### Paramount Tables

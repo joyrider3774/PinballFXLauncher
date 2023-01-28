@@ -5,7 +5,7 @@
 <img width="192" height="108" src="Media/Backglass%20Images/TblMyLittlePony.png">
 
 ## Gearbox
-<img width="192" height="108" src="Media/Backglass%20Images/TblHomeWorld.png">
+<img width="192" height="108" src="Media/Backglass%20Images/TblBorderlands.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblBrotherInArms.png"> <img width="192" height="108" src="Media/Backglass%20Images/TblHomeWorld.png">
 
 ## Paramount
 <img width="192" height="108" src="Media/Backglass%20Images/TblWorldWarZ.png">
