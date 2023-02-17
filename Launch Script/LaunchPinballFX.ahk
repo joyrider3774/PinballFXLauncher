@@ -60,19 +60,19 @@ GrpNickelodeon := 14
 ;--------------- Zen Originals ------------------
 TblSonOfZeus := [GrpZen,0,0]
 TblAdventureLand := [GrpZen,0,1]
-TblCastleStorm := [GrpZen,0,2]
-TblBioLab := [GrpZen,0,3]
-TblPasha := [GrpZen,0,4]
+TblCurseOfTheMummy := [GrpZen,0,2]
+TblPinballNoir := [GrpZen,0,3]
+TblSkyPirates := [GrpZen,0,4]
 
-TblRome := [GrpZen,1,0]
-TblSecretsOfTheDeep := [GrpZen,1,1]
-TblCurseOfTheMummy := [GrpZen,1,2]
-TblPinballNoir := [GrpZen,1,3]
-TblSkyPirates := [GrpZen,1,4]
+TblGrimTales := [GrpZen,1,0]
+TblWrathOfTheElderGods := [GrpZen,1,1]
+TblWildWest := [GrpZen,1,2]
+TblCastleStorm := [GrpZen,1,3]
+TblBioLab := [GrpZen,1,4]
 
-TblGrimTales := [GrpZen,2,0]
-TblWrathOfTheElderGods := [GrpZen,2,1]
-TblWildWest := [GrpZen,2,2]
+TblPasha := [GrpZen,2,0]
+TblRome := [GrpZen,2,1]
+TblSecretsOfTheDeep := [GrpZen,2,2]
 
 ;--------------- DreamWorks ------------------
 TblDragonsPinball := [GrpDreamWorks,0,0]
