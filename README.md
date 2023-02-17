@@ -49,9 +49,20 @@ If you don't Specify the game mode, it will always use classic mode
 ## Table Names
 You can use any of the listed Table Name values below for the `[TableName]` Parameter
 
-### Daily Free Tables
-- TblDaily1
-- TblDaily2
+### Zen Original Tables
+- TblAdventureLand
+- TblBioLab
+- TblCastleStorm
+- TblCurseOfTheMummy
+- TblGrimTales
+- TblPasha
+- TblPinballNoir
+- TblRome
+- TblSecretsOfTheDeep
+- TblSkyPirates
+- TblSonOfZeus
+- TblWildWest
+- TblWrathOfTheElderGods
 
 ### DreamWorks Tables
 - TblDragonsPinball
@@ -62,9 +73,22 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblMyLittlePony
 
 ### Gearbox Tables
-- TblBorderlands (not released yet)
-- TblBrotherInArms (not released yet)
+- TblBorderlands
+- TblBrotherInArms
 - TblHomeWorld
+
+### Marvel Tables
+- TblMVBlade
+- TblMVCaptainAmerica
+- TblMVDrStrange
+- TblMVFantasticFour
+- TblMVGhostRider
+- TblMVIronMan
+- TblMVMoonKnight
+- TblMVSpiderMan
+- TblMVThor
+- TblMVWolverine
+- TblMVXMen
 
 ### Paramount Tables
 - TblWorldWarZ
@@ -123,27 +147,15 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblSafeCracker
 - TblSpaceStation
 - TblSwordsOfFury
-- TblTheAddamsFamily (not released yet)
+- TblTheAddamsFamily
 - TblTheGetAway
 - TblTheMachineBrideOfPinBot
 - TblTheatreOfMagic
 - TblWhiteWater
 - TblWorldCupSoccer
 
-### Zen Original Tables
-- TblAdventureLand
-- TblBioLab
-- TblCastleStorm
-- TblCurseOfTheMummy
-- TblGrimTales
-- TblPasha
-- TblPinballNoir
-- TblRome
-- TblSecretsOfTheDeep
-- TblSkyPirates
-- TblSonOfZeus
-- TblWildWest
-- TblWrathOfTheElderGods
+### Nickelodeon Tables
+- TblGarfieldPinball
 
 ## Cabinet setup pinball X
 

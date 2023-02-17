@@ -71,6 +71,54 @@
 		<enabled>True</enabled>
 		<rating>0</rating>
 	</game>
+	<game name="TblMVBlade">
+		<description>Blade</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
+	<game name="TblBorderlands">
+		<description>Borderlands: Vault Hunter Pinball</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
+	<game name="TblBrotherInArms">
+		<description>Brother In Arms: Win The War Pinball</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
+	<game name="TblMVCaptainAmerica">
+		<description>Captain America</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
 	<game name="TblCastleStorm">
 		<description>Castle Storm</description>
 		<rom></rom>
@@ -167,6 +215,18 @@
 		<enabled>True</enabled>
 		<rating>0</rating>
 	</game>
+	<game name="TblMVDrStrange">
+		<description>Dr. Strange</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
 	<game name="TblET">
 		<description>E.T.</description>
 		<rom></rom>
@@ -179,6 +239,18 @@
 		<enabled>True</enabled>
 		<rating>0</rating>
 	</game>
+	<game name="TblMVFantasticFour">
+		<description>Fantastic Four</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
 	<game name="TblFunHouse">
 		<description>Fun House</description>
 		<rom></rom>
@@ -190,6 +262,30 @@
 		<hidebackglass>True</hidebackglass>
 		<enabled>True</enabled>
 		<rating>0</rating>
+	</game>
+	<game name="TblGarfieldPinball">
+		<description>Garfield Pinball</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
+	<game name="TblMVGhostRider">
+		<description>Ghost-Rider</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
 	</game>
 	<game name="TblGrimTales">
 		<description>Grim Tales</description>
@@ -250,6 +346,18 @@
 		<hidebackglass>True</hidebackglass>
 		<enabled>True</enabled>
 		<rating>0</rating>
+	</game>
+	<game name="TblMVIronMan">
+		<description>Iron-Man</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
 	</game>
 	<game name="TblJaws">
 		<description>Jaws</description>
@@ -346,6 +454,18 @@
 		<hidebackglass>True</hidebackglass>
 		<enabled>True</enabled>
 		<rating>0</rating>
+	</game>
+	<game name="TblMVMoonKnight">
+		<description>Moon Knight</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
 	</game>
 	<game name="TblMyLittlePony">
 		<description>My Little Pony</description>
@@ -502,6 +622,18 @@
 		<hidebackglass>True</hidebackglass>
 		<enabled>True</enabled>
 		<rating>0</rating>
+	</game>
+	<game name="TblMVSpiderMan">
+		<description>Spider-Man</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
 	</game>
 	<game name="TblSWNewHope">
 		<description>Star Wars A New Hope</description>
@@ -767,6 +899,18 @@
 		<enabled>True</enabled>
 		<rating>0</rating>
 	</game>
+	<game name="TblTheAddamsFamily">
+		<description>The Addams Family</description>
+		<rom></rom>
+		<manufacturer>Williams</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
 	<game name="TblTheGetAway">
 		<description>The Get Away</description>
 		<rom></rom>
@@ -802,6 +946,18 @@
 		<hidebackglass>True</hidebackglass>
 		<enabled>True</enabled>
 		<rating>0</rating>
+	</game>
+	<game name="TblMVThor">
+		<description>Thor</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
 	</game>
 	<game name="TblTrollsPinball">
 		<description>Trolls Pinball</description>
@@ -839,6 +995,18 @@
 		<enabled>True</enabled>
 		<rating>0</rating>
 	</game>
+	<game name="TblMVWolverine">
+		<description>Wolverine</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
+	</game>
 	<game name="TblWorldCupSoccer">
 		<description>World Cup Soccer</description>
 		<rom></rom>
@@ -874,5 +1042,17 @@
 		<hidebackglass>True</hidebackglass>
 		<enabled>True</enabled>
 		<rating>0</rating>
+	</game>
+	<game name="TblMVXMen">
+		<description>X-Men</description>
+		<rom></rom>
+		<manufacturer>Zen Studios</manufacturer>
+		<year></year>
+		<type></type>
+		<hidedmd>True</hidedmd>
+		<hidetopper>True</hidetopper>
+		<hidebackglass>True</hidebackglass>
+		<enabled>True</enabled>
+		<rating>-2</rating>
 	</game>
 </menu>

@@ -40,35 +40,67 @@ DoPlayBeeps := true
 DoActivateWindow := true
 
 ;-------- constants ----------
-GrpDailyFree := 1
+GrpZen := 4
 GrpDreamWorks := 5
 GrpGearBox := 6
 GrpHasBro := 7
-GrpParamount := 8
-GrpPeanuts := 9
-GrpStarWars := 10
-GrpUniversal := 11
-GrpWilliams := 12
-GrpZen := 13
+GrpMarvel := 8
+GrpParamount := 9
+GrpPeanuts := 10
+GrpStarWars := 11
+GrpUniversal := 12
+GrpWilliams := 13
+GrpNickelodeon := 14
+
 
 ;1st element (group) how many times to press down to select group
 ;2nd element how many times to press down to select row table is on
 ;3rd element how many times to press right to select table
 
-;--------------- Daily ------------------
-TblDaily1 := [GrpDailyFree,0,0]
-TblDaily2 := [GrpDailyFree,1,1]
+;--------------- Zen Originals ------------------
+TblSonOfZeus := [GrpZen,0,0]
+TblAdventureLand := [GrpZen,0,1]
+TblCastleStorm := [GrpZen,0,2]
+TblBioLab := [GrpZen,0,3]
+TblPasha := [GrpZen,0,4]
+
+TblRome := [GrpZen,1,0]
+TblSecretsOfTheDeep := [GrpZen,1,1]
+TblCurseOfTheMummy := [GrpZen,1,2]
+TblPinballNoir := [GrpZen,1,3]
+TblSkyPirates := [GrpZen,1,4]
+
+TblGrimTales := [GrpZen,2,0]
+TblWrathOfTheElderGods := [GrpZen,2,1]
+TblWildWest := [GrpZen,2,2]
 
 ;--------------- DreamWorks ------------------
-TblTrollsPinball := [GrpDreamWorks,0,0]
-TblDragonsPinball := [GrpDreamWorks,0,1]
+TblDragonsPinball := [GrpDreamWorks,0,0]
+TblTrollsPinball := [GrpDreamWorks,0,1]
 TblKungFuPandaPinball := [GrpDreamWorks,0,2]
 
 ;--------------- Gearbox ------------------
 TblHomeWorld := [GrpGearBox,0,0]
+TblBrotherInArms := [GrpGearBox,0,1]
+TblBorderlands := [GrpGearBox,0,2]
 
 ;--------------- Hasbro ------------------
 TblMyLittlePony := [GrpHasBro,0,0]
+
+;--------------- Marvel ------------------
+TblMVDrStrange := [GrpMarvel,0,0]
+TblMVCaptainAmerica := [GrpMarvel,0,1]
+TblMVFantasticFour := [GrpMarvel,0,2]
+TblMVGhostRider := [GrpMarvel,0,3]
+TblMVThor := [GrpMarvel,0,4]
+
+TblMVXMen := [GrpMarvel,1,0]
+TblMVMoonKnight := [GrpMarvel,1,1]
+TblMVIronMan := [GrpMarvel,1,2]
+TblMVSpiderMan := [GrpMarvel,1,3]
+TblMVBlade := [GrpMarvel,1,4]
+
+TblMVWolverine := [GrpMarvel,2,0]
 
 ;--------------- Paramount ------------------
 TblWorldWarZ := [GrpParamount,0,0]
@@ -91,88 +123,89 @@ TblSWReturnOfTheJedi := [GrpStarWars,1,4]
 
 TblSWDarthVader := [GrpStarWars,2,0]
 TblSWStarfighterAssault := [GrpStarWars,2,1]
-TblSWMandalorian := [GrpStarWars,2,2]
-TblSWClassicCollectibles := [GrpStarWars,2,3]
-TblSWHanSolo := [GrpStarWars,2,4]
+TblSWHanSolo := [GrpStarWars,2,2]
+TblSWDroids := [GrpStarWars,2,3]
+TblSWNewHope := [GrpStarWars,2,4]
 
-TblSWDroids := [GrpStarWars,3,0]
-TblSWNewHope := [GrpStarWars,3,1]
-TblSWMastersOfTheForce := [GrpStarWars,3,2]
-TblSWEmpireStrikesBack := [GrpStarWars,3,3]
-TblSWCloneWars := [GrpStarWars,3,4]
+TblSWMastersOfTheForce := [GrpStarWars,3,0]
+TblSWEmpireStrikesBack := [GrpStarWars,3,1]
+TblSWCloneWars := [GrpStarWars,3,2]
+TblSWBobaFett := [GrpStarWars,3,3]
+TblSWMandalorian := [GrpStarWars,3,4]
 
-TblSWBobaFett := [GrpStarWars,4,0]
+TblSWClassicCollectibles := [GrpStarWars,4,0]
+
 ;--------------- Paramount ------------------
-TblJurassicWorld := [GrpUniversal,0,0]
-TblJurassicParkPinball := [GrpUniversal,0,1]
-TblJurassicParkPinballMayhem := [GrpUniversal,0,2]
-TblBackToTheFuture := [GrpUniversal,0,3]
-TblJaws := [GrpUniversal,0,4]
+TblBackToTheFuture := [GrpUniversal,0,0]
+TblJaws := [GrpUniversal,0,1]
+TblET := [GrpUniversal,0,2]
+TblJurassicWorld := [GrpUniversal,0,3]
+TblJurassicParkPinball := [GrpUniversal,0,4]
 
-TblET := [GrpUniversal,1,0]
+TblJurassicParkPinballMayhem := [GrpUniversal,1,0]
 
 ;--------------- Williams ------------------
-TblWorldCupSoccer := [GrpWilliams,0,0]
-TblTheMachineBrideOfPinBot := [GrpWilliams,0,1]
-TblFunHouse := [GrpWilliams,0,2]
-TblSpaceStation := [GrpWilliams,0,3]
-TblDrDude := [GrpWilliams,0,4]
+TblTheatreOfMagic := [GrpWilliams,0,0]
+TblChampionPub := [GrpWilliams,0,1]
+TblSafeCracker := [GrpWilliams,0,2]
+TblBlackRose := [GrpWilliams,0,3]
+TblAttackFromMars := [GrpWilliams,0,4]
 
-TblSwordsOfFury := [GrpWilliams,1,0]
-TblCirqusVoltaire := [GrpWilliams,1,1]
-TblNoGoodGofers := [GrpWilliams,1,2]
-TblArabianNights := [GrpWilliams,1,3]
-TblWhiteWater := [GrpWilliams,1,4]
+TblPartyZone := [GrpWilliams,1,0]
+TblTheGetAway := [GrpWilliams,1,1]
+TblJunkYard := [GrpWilliams,1,2]
+TblMedievalMadness := [GrpWilliams,1,3]
+TblFunHouse := [GrpWilliams,1,4]
 
-TblRoadShow := [GrpWilliams,2,0]
-TblHurricane := [GrpWilliams,2,1]
-TblIndianaJones := [GrpWilliams,2,2]
-TblMonsterBash := [GrpWilliams,2,3]
-TblCreatureOfTheBlackLagoon := [GrpWilliams,2,4]
+TblSpaceStation := [GrpWilliams,2,0]
+TblDrDude := [GrpWilliams,2,1]
+TblCirqusVoltaire := [GrpWilliams,2,2]
+TblNoGoodGofers := [GrpWilliams,2,3]
+TblArabianNights := [GrpWilliams,2,4]
 
-TblTheatreOfMagic := [GrpWilliams,3,0]
-TblChampionPub := [GrpWilliams,3,1]
-TblSafeCracker := [GrpWilliams,3,2]
-TblBlackRose := [GrpWilliams,3,3]
-TblAttackFromMars := [GrpWilliams,3,4]
+TblWhiteWater := [GrpWilliams,3,0]
+TblRoadShow := [GrpWilliams,3,1]
+TblHurricane := [GrpWilliams,3,2]
+TblSwordsOfFury := [GrpWilliams,3,3]
+TblIndianaJones := [GrpWilliams,3,4]
 
-TblPartyZone := [GrpWilliams,4,0]
-TblTheGetAway := [GrpWilliams,4,1]
-TblJunkYard := [GrpWilliams,4,2]
-TblMedievalMadness := [GrpWilliams,4,3]
+TblTheMachineBrideOfPinBot := [GrpWilliams,4,0]
+TblWorldCupSoccer := [GrpWilliams,4,1]
+TblMonsterBash := [GrpWilliams,4,2]
+TblCreatureOfTheBlackLagoon := [GrpWilliams,4,3]
+TblTheAddamsFamily := [GrpWilliams,4,4]
 
-;--------------- Zen Originals ------------------
-TblWrathOfTheElderGods := [GrpZen,0,0]
-TblGrimTales := [GrpZen,0,1]
-TblCurseOfTheMummy := [GrpZen,0,2]
-TblPinballNoir := [GrpZen,0,3]
-TblSkyPirates := [GrpZen,0,4]
-TblSonOfZeus := [GrpZen,1,0]
-TblAdventureLand := [GrpZen,1,1]
-TblWildWest := [GrpZen,1,2]
-TblCastleStorm := [GrpZen,1,3]
-TblBioLab := [GrpZen,1,4]
-TblPasha := [GrpZen,2,0]
-TblRome := [GrpZen,2,1]
-TblSecretsOfTheDeep := [GrpZen,2,2]
+;--------------- Nickelodeon ------------------
+TblGarfieldPinball := [GrpNickelodeon,0,0]
 
 ;-------- Aliases as per zen's naming -----------
 Table_2 := TblSWMastersOfTheForce
 Table_6 := TblSWStarfighterAssault
+Table_7 := TblMVThor
 Table_10 := TblSWHanSolo
 Table_12 := TblSWNewHope
+Table_21 := TblMVGhostRider
 Table_23 := TblPasha
 Table_24 := TblSWReturnOfTheJedi
 Table_27 := TblBioLab
 Table_28 := TblSWDarthVader
 Table_29 := TblAdventureLand
+Table_30 := TblDrStrange
 Table_31 := TblRome
+Table_38 := TblFantasticFour
 Table_40 := TblCastleStorm
 Table_43 := TblSWEmpireStrikesBack
+Table_45 := TblMVBlade
+Table_46 := TblMVSpiderMan
 Table_47 := TblSWCloneWars
+Table_48 := TblMVCaptainAmerica
+Table_49 := TblMVMoonKnight
 Table_53 := TblSWBobaFett
 Table_58 := TblSWDroids
+Table_59 := TblXMen
+Table_65 := TblMVIronMan
 Table_66 := TblSecretsOfTheDeep
+Table_71 := TblMVWolverine
 Table_75 := TblWildWest
 Table_77 := TblSWRebels
 Table_80 := TblSonOfZeus
@@ -220,13 +253,17 @@ Table_138 := TblMyLittlePony
 Table_139 := TblKungFuPandaPinball
 Table_140 := TblTrollsPinball
 Table_141 := TblDragonsPinball
+Table_145 := TblGarfieldPinball
 Table_146 := TblSnoopyPinball
 Table_147 := TblWrathOfTheElderGods
 Table_148 := TblTheMachineBrideOfPinBot
 Table_149 := TblSwordsOfFury
 Table_150 := TblHomeWorld
+Table_151 := TblBrotherInArms
+Table_152 := TblBorderlands
 Table_154 := TblWorldWarZ
 Table_155 := TblGrimTales
+Table_156 := TblTheAddamsFamily
 Table_157 := TblWorldCupSoccer
 
 ;--------Run Before (Need to be compiled)----End------
@@ -344,6 +381,7 @@ SelectGameMode(Tbl, GameMode) {
 
 	NumDownAdd := 0
 	NumDown := 0
+	NumRight := 0
 
 	if (GameMode = "Pro") {
 		NumDown := 0
@@ -357,22 +395,40 @@ SelectGameMode(Tbl, GameMode) {
 	if (GameMode = "Practice") {
 		NumDown := 3
 	}
-	if (GameMode = "Distance") {
-		NumDown := 4
-	}
-	if (GameMode = "Time") {
-		NumDown := 5
-	}
-	if (GameMode = "1Ball") {
-		NumDown := 6
-	}
+
 	if (GameMode = "Flips") {
-		NumDown := 7
+		NumDown := 0
+		NumRight := 1	
+	}
+
+	if (GameMode = "1Ball") {
+		NumDown := 1
+		NumRight := 1
+	}
+	
+	if (GameMode = "Time") {
+		NumDown := 2
+		NumRight := 1
+	}
+
+	if (GameMode = "Distance") {
+		NumDown := 3
+		NumRight := 1
 	}
 
 	;with williams table it shifts with one extra down after "Classic" mode because of the added "Pro" Mode
-	if ((Tbl[1] = GrpWilliams) and !(GameMode = "Classic")) {
+	if ((Tbl[1] = GrpWilliams) and !(GameMode = "Classic") and (NumRight = 0)) {
 		NumDown := NumDown + 1
+	}
+
+	;Select The Mode by pressing Right first
+	Loop, %NumRight%
+	{
+		Send {Right down}
+		Sleep, %KeyDelay%
+		Send {Right up}
+		Sleep, %KeyDelay%
+		Sleep, 100
 	}
 
 	;Select The Mode by pressing down
@@ -385,20 +441,12 @@ SelectGameMode(Tbl, GameMode) {
 		Sleep, 100
 	}
 
-	;Send right button to activate the mode
-	Send {Right down}
-	Sleep, %KeyDelay%
-	Send {Right up}
-	Sleep, %KeyDelay%
-
-	Sleep, 700
-
 	;in case of hotseat 3 player or 4 player still need to select that
 	if ((GameMode = "Hotseat3") or (GameMode = "Hotseat4")) {
 
-		Send {Up down}
+		Send {Space down}
 		Sleep, %KeyDelay%
-		Send {Up up}
+		Send {Space up}
 		Sleep, %KeyDelay%
 
 		Sleep, 100
@@ -419,11 +467,6 @@ SelectGameMode(Tbl, GameMode) {
 			Sleep, %KeyDelay%
 			Sleep, 100
 		}
-
-		Send {Down down}
-		Sleep, %KeyDelay%
-		Send {Down up}
-		Sleep, %KeyDelay%
 
 		Sleep, 100
 	}
@@ -457,7 +500,7 @@ SelectTable(Table) {
 	Send {RShift up}
 	Sleep, %KeyDelay%
 
-	Sleep, 500
+	Sleep, 750
 
 	LoopGroupCount := (Table[1])
 
@@ -527,7 +570,7 @@ tbl := Eval(tblname)[1]
 if (tblmode = "")
 	tblmode := "Classic"
 
-if (((tblmode = "Pro") and !(tbl[1] = GrpWilliams)) or (tbl[1] = GrpDailyFree))
+if ((tblmode = "Pro") and !(tbl[1] = GrpWilliams))
 	tblmode := "Classic"
 
 GotoMenu()
