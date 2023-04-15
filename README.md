@@ -3,6 +3,9 @@
 
 A Launch Autohotkey script for pinball FX that adds per table launching support. Plus a collection of docklet wheel images that go with it
 
+> **Warning**
+> It seems the order the tables appear in the game can vary between users even on the same platform and they are definatly different between multiple platforms like for example steam and epic. So i will only add the new tables to the script and update the table databases for easy import and adapt the script to my positions. This means you will have to modify the positions inside the autohotkey script yourself, based on how the tables appear in your install of the game! They might also change with each update that Zen releases!
+
 ## Release / Help Video
 
 ### Script install / usage instructions (see this first)
@@ -21,9 +24,16 @@ A Launch Autohotkey script for pinball FX that adds per table launching support.
 ## Usage
 Compile To Exe (check video above) then use these commands
 
+###For Epic Games game version:
 ```
 LaunchPinballFX.exe [TableName] [Mode]
 ```
+
+###For Steam game version:
+```
+LaunchPinballFX.exe Steam [TableName] [Mode]
+```
+
 
 Where `[TableName]` is the name of the table and `[Mode]` the game mode to play
 
@@ -55,6 +65,7 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblCastleStorm
 - TblCurseOfTheMummy
 - TblGrimTales
+- TblSorcerersLair
 - TblPasha
 - TblPinballNoir
 - TblRome
@@ -64,6 +75,9 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblWildWest
 - TblWrathOfTheElderGods
 
+### Bace Yourself Pinball Tables
+- TblCryptOfTheNecroDancer
+
 ### DreamWorks Tables
 - TblDragonsPinball
 - TblKungFuPandaPinball
@@ -72,23 +86,40 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 ### Hasbro Tables
 - TblMyLittlePony
 
+### Legendary Tables
+- TblGodzilla
+- TblGodzillaVsKong
+- TblKong
+
 ### Gearbox Tables
 - TblBorderlands
 - TblBrotherInArms
 - TblHomeWorld
 
 ### Marvel Tables
+- TblMVAntman
+- TblMVAvengers
+- TblMVAvengersAgeOfUltron
 - TblMVBlade
 - TblMVCaptainAmerica
+- TblMVCivilWar
+- TblMVDeadPool
 - TblMVDrStrange
 - TblMVFantasticFour
+- TblMVFearItself
 - TblMVGhostRider
+- TblMVGuardiansOfTheGalaxy
+- TblMVInfinityGauntlet
 - TblMVIronMan
 - TblMVMoonKnight
 - TblMVSpiderMan
 - TblMVThor
+- TblMVVenom
 - TblMVWolverine
+- TblMVWomenOfPowerAForce
+- TblMVWomenOfPowerChampions
 - TblMVXMen
+- TblMVWorldWarHulk
 
 ### Paramount Tables
 - TblWorldWarZ
@@ -135,6 +166,7 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblCirqusVoltaire
 - TblCreatureOfTheBlackLagoon
 - TblDrDude
+- TblFishTales
 - TblFunHouse
 - TblHurricane
 - TblIndianaJones
@@ -151,6 +183,7 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 - TblTheGetAway
 - TblTheMachineBrideOfPinBot
 - TblTheatreOfMagic
+- TblTwilightZone
 - TblWhiteWater
 - TblWorldCupSoccer
 
@@ -193,9 +226,9 @@ Also download Display.exe from this [zip file](https://www.nailbuster.com/upload
 ```
 @echo off
 
+REM You can rotate your screen inside the game now lines below are no longer needed!
 REM Change /device 1 to your device id for your playfield screen
-
-START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 90
+REM START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 90
 
 timeout 2
 
@@ -222,7 +255,11 @@ if "[ALTMODE]"=="Distance" (SET ALTPARAM=Distance )
 if "[ALTMODE]"=="Flips" (SET ALTPARAM=Flips )
 if "[ALTMODE]"=="Practice" (SET ALTPARAM=Practice )
 
-START "" "[DIREMU]\LaunchPinballFX.exe" [GAMENAME] %ALTPARAM%
+REM for steam version (default)
+START "" "[DIREMU]\LaunchPinballFX.exe" Steam [GAMENAME] %ALTPARAM%
+
+REM For Epic Games Version remove REM from command below and put a REM before the command above
+REM START "" "[DIREMU]\LaunchPinballFX.exe" [GAMENAME] %ALTPARAM%
 
 timeout 5
 
@@ -232,7 +269,8 @@ START "" "[STARTDIR]Launch\VPXSTARTER.exe" 10 10 60 "PinballFX"
 
 ### Close Script
 ```
-START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 0
+REM you can change the rotation inside the game now line below is no longer needed
+REM START "" "[STARTDIR]Launch\display.exe" /device 1 /rotate 0
 timeout 2
 "[STARTDIR]LAUNCH\PUPCLOSER.EXE" WINTIT "PinballFX" 5 1
 timeout 1

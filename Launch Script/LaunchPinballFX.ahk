@@ -15,7 +15,7 @@ SetWorkingDir %A_ScriptDir%
 WaitBeforeActivate := 6000
 
 ; after finding window and waiting to see "press any key to continue"
-WaitBeforeGameLoad := 12000
+WaitBeforeGameLoad := 18000
 
 ; after game "press any key to continue" screen and waiting before menu is visible
 WaitBeforeMenu := 18000
@@ -41,16 +41,18 @@ DoActivateWindow := true
 
 ;-------- constants ----------
 GrpZen := 4
-GrpDreamWorks := 5
-GrpGearBox := 6
-GrpHasBro := 7
-GrpMarvel := 8
-GrpParamount := 9
-GrpPeanuts := 10
-GrpStarWars := 11
-GrpUniversal := 12
-GrpWilliams := 13
-GrpNickelodeon := 14
+GrpBraceYourself := 5
+GrpDreamWorks := 6
+GrpGearBox := 7
+GrpHasBro := 8
+GrpLegendary := 9
+GrpMarvel := 10
+GrpParamount := 11
+GrpPeanuts := 12
+GrpStarWars := 13
+GrpUniversal := 14
+GrpWilliams := 15
+GrpNickelodeon := 16
 
 
 ;1st element (group) how many times to press down to select group
@@ -58,21 +60,25 @@ GrpNickelodeon := 14
 ;3rd element how many times to press right to select table
 
 ;--------------- Zen Originals ------------------
-TblSonOfZeus := [GrpZen,0,0]
-TblAdventureLand := [GrpZen,0,1]
+TblSorcerersLair = [GrpZen,0,0]
+TblWildWest := [GrpZen,0,1]
 TblCurseOfTheMummy := [GrpZen,0,2]
-TblPinballNoir := [GrpZen,0,3]
-TblSkyPirates := [GrpZen,0,4]
+TblWrathOfTheElderGods := [GrpZen,0,3]
+TblGrimTales := [GrpZen,0,4]
 
-TblGrimTales := [GrpZen,1,0]
-TblWrathOfTheElderGods := [GrpZen,1,1]
-TblWildWest := [GrpZen,1,2]
-TblCastleStorm := [GrpZen,1,3]
-TblBioLab := [GrpZen,1,4]
+TblSkyPirates := [GrpZen,1,0]
+TblPinballNoir := [GrpZen,1,1]
+TblCastleStorm := [GrpZen,1,2]
+TblAdventureLand := [GrpZen,1,3]
+TblSonOfZeus := [GrpZen,1,4]
 
-TblPasha := [GrpZen,2,0]
+TblSecretsOfTheDeep := [GrpZen,2,0]
 TblRome := [GrpZen,2,1]
-TblSecretsOfTheDeep := [GrpZen,2,2]
+TblPasha := [GrpZen,2,2]
+TblBioLab := [GrpZen,2,3]
+
+;--------------- BaceYourself ------------------
+TblCryptOfTheNecroDancer = [GrpBraceYourself, 0,0]
 
 ;--------------- DreamWorks ------------------
 TblDragonsPinball := [GrpDreamWorks,0,0]
@@ -80,27 +86,46 @@ TblTrollsPinball := [GrpDreamWorks,0,1]
 TblKungFuPandaPinball := [GrpDreamWorks,0,2]
 
 ;--------------- Gearbox ------------------
-TblHomeWorld := [GrpGearBox,0,0]
-TblBrotherInArms := [GrpGearBox,0,1]
+TblBrotherInArms := [GrpGearBox,0,0]
+TblHomeWorld := [GrpGearBox,0,1]
 TblBorderlands := [GrpGearBox,0,2]
 
 ;--------------- Hasbro ------------------
 TblMyLittlePony := [GrpHasBro,0,0]
 
+;--------------- Legendary ------------------
+TblGodzilla = [GrpLegendary,0,0]
+TblKong = [GrpLegendary,0,1];
+TblGodzillaVsKong = [GrpLegendary,0,2];
+
 ;--------------- Marvel ------------------
-TblMVDrStrange := [GrpMarvel,0,0]
-TblMVCaptainAmerica := [GrpMarvel,0,1]
-TblMVFantasticFour := [GrpMarvel,0,2]
-TblMVGhostRider := [GrpMarvel,0,3]
-TblMVThor := [GrpMarvel,0,4]
+TblMVDeadPool := [GrpMarvel,0,0]
+TblMVSpiderMan := [GrpMarvel,0,1]
+TblMVBlade := [GrpMarvel,0,2]
+TblMVFantasticFour := [GrpMarvel,0,3]
+TblMVDrStrange := [GrpMarvel,0,4]
 
-TblMVXMen := [GrpMarvel,1,0]
-TblMVMoonKnight := [GrpMarvel,1,1]
-TblMVIronMan := [GrpMarvel,1,2]
-TblMVSpiderMan := [GrpMarvel,1,3]
-TblMVBlade := [GrpMarvel,1,4]
+TblMVGhostRider := [GrpMarvel,1,0]
+TblMVCaptainAmerica := [GrpMarvel,1,1]
+TblMVAvengers := [GrpMarvel,1,2]
+TblMVMoonKnight := [GrpMarvel,1,3]
+TblMVFearItself := [GrpMarvel,1,4]
 
-TblMVWolverine := [GrpMarvel,2,0]
+TblMVCivilWar := [GrpMarvel,2,0]
+TblMVWomenOfPowerChampions := [GrpMarvel,2,1]
+TblMVWolverine := [GrpMarvel,2,2]
+TblMVWomenOfPowerAForce := [GrpMarvel,2,3]
+TblMVAntman := [GrpMarvel,2,4]
+
+TblMVAvengersAgeOfUltron := [GrpMarvel,3,0]
+TblMVVenom := [GrpMarvel,3,1]
+TblMVIronMan := [GrpMarvel,3,2]
+TblMVGuardiansOfTheGalaxy := [GrpMarvel,3,3]
+TblMVInfinityGauntlet := [GrpMarvel,3,4]
+
+TblMVXMen := [GrpMarvel,4,0]
+TblMVWorldWarHulk := [GrpMarvel,4,1]
+TblMVThor := [GrpMarvel,4,2]
 
 ;--------------- Paramount ------------------
 TblWorldWarZ := [GrpParamount,0,0]
@@ -109,31 +134,31 @@ TblWorldWarZ := [GrpParamount,0,0]
 TblSnoopyPinball := [GrpPeanuts,0,0]
 
 ;--------------- Star Wars ------------------
-TblSWSolo := [GrpStarWars,0,0]
-TblSWCalrissianChronicles := [GrpStarWars,0,1]
-TblSWBattleOfMimban := [GrpStarWars,0,2]
-TblSWTheLastJedi := [GrpStarWars,0,3]
-TblSWAhchToIsland := [GrpStarWars,0,4]
+TblSWStarfighterAssault := [GrpStarWars,0,0]
+TblSWBobaFett := [GrpStarWars,0,1]
+TblSWReturnOfTheJedi := [GrpStarWars,0,2]
+TblSWDarthVader := [GrpStarWars,0,3]
+TblSWHanSolo := [GrpStarWars,0,4]
 
-TblSWRogueOne := [GrpStarWars,1,0]
-TblSWRebels := [GrpStarWars,1,1]
-TblSWForceAwakens := [GrpStarWars,1,2]
-TblSWMightOfTheFirstOrder := [GrpStarWars,1,3]
-TblSWReturnOfTheJedi := [GrpStarWars,1,4]
+TblSWCloneWars := [GrpStarWars,1,0]
+TblSWNewHope := [GrpStarWars,1,1]
+TblSWMastersOfTheForce := [GrpStarWars,1,2]
+TblSWMandalorian := [GrpStarWars,1,3]
+TblSWClassicCollectibles := [GrpStarWars,1,4]
 
-TblSWDarthVader := [GrpStarWars,2,0]
-TblSWStarfighterAssault := [GrpStarWars,2,1]
-TblSWHanSolo := [GrpStarWars,2,2]
-TblSWDroids := [GrpStarWars,2,3]
-TblSWNewHope := [GrpStarWars,2,4]
+TblSWDroids := [GrpStarWars,2,0]
+TblSWSolo := [GrpStarWars,2,1]
+TblSWRebels := [GrpStarWars,2,2]
+TblSWBattleOfMimban := [GrpStarWars,2,3]
+TblSWCalrissianChronicles := [GrpStarWars,2,4]
 
-TblSWMastersOfTheForce := [GrpStarWars,3,0]
-TblSWEmpireStrikesBack := [GrpStarWars,3,1]
-TblSWCloneWars := [GrpStarWars,3,2]
-TblSWBobaFett := [GrpStarWars,3,3]
-TblSWMandalorian := [GrpStarWars,3,4]
+TblSWAhchToIsland := [GrpStarWars,3,0]
+TblSWRogueOne := [GrpStarWars,3,1]
+TblSWTheLastJedi := [GrpStarWars,3,2]
+TblSWEmpireStrikesBack := [GrpStarWars,3,3]
+TblSWMightOfTheFirstOrder := [GrpStarWars,3,4]
 
-TblSWClassicCollectibles := [GrpStarWars,4,0]
+TblSWForceAwakens := [GrpStarWars,4,0]
 
 ;--------------- Paramount ------------------
 TblBackToTheFuture := [GrpUniversal,0,0]
@@ -145,46 +170,53 @@ TblJurassicParkPinball := [GrpUniversal,0,4]
 TblJurassicParkPinballMayhem := [GrpUniversal,1,0]
 
 ;--------------- Williams ------------------
-TblTheatreOfMagic := [GrpWilliams,0,0]
-TblChampionPub := [GrpWilliams,0,1]
-TblSafeCracker := [GrpWilliams,0,2]
-TblBlackRose := [GrpWilliams,0,3]
-TblAttackFromMars := [GrpWilliams,0,4]
+TblFishTales := [GrpWilliams,0,0]
+TblJunkYard := [GrpWilliams,0,1]
+TblBlackRose := [GrpWilliams,0,2]
+TblAttackFromMars := [GrpWilliams,0,3]
+TblPartyZone := [GrpWilliams,0,4]
 
-TblPartyZone := [GrpWilliams,1,0]
-TblTheGetAway := [GrpWilliams,1,1]
-TblJunkYard := [GrpWilliams,1,2]
-TblMedievalMadness := [GrpWilliams,1,3]
-TblFunHouse := [GrpWilliams,1,4]
+TblTheGetAway := [GrpWilliams,1,0]
+TblMedievalMadness := [GrpWilliams,1,1]
+TblSafeCracker := [GrpWilliams,1,2]
+TblTheMachineBrideOfPinBot := [GrpWilliams,1,3]
+TblWorldCupSoccer := [GrpWilliams,1,4]
 
-TblSpaceStation := [GrpWilliams,2,0]
-TblDrDude := [GrpWilliams,2,1]
-TblCirqusVoltaire := [GrpWilliams,2,2]
-TblNoGoodGofers := [GrpWilliams,2,3]
-TblArabianNights := [GrpWilliams,2,4]
+TblMonsterBash := [GrpWilliams,2,0]
+TblCreatureOfTheBlackLagoon := [GrpWilliams,2,1]
+TblTheAddamsFamily := [GrpWilliams,2,2]
+TblChampionPub := [GrpWilliams,2,3]
+TblDrDude := [GrpWilliams,2,4]
 
 TblWhiteWater := [GrpWilliams,3,0]
-TblRoadShow := [GrpWilliams,3,1]
-TblHurricane := [GrpWilliams,3,2]
-TblSwordsOfFury := [GrpWilliams,3,3]
-TblIndianaJones := [GrpWilliams,3,4]
+TblSwordsOfFury := [GrpWilliams,3,1]
+TblRoadShow := [GrpWilliams,3,2]
+TblHurricane := [GrpWilliams,3,3]
+TblFunHouse := [GrpWilliams,3,4]
 
-TblTheMachineBrideOfPinBot := [GrpWilliams,4,0]
-TblWorldCupSoccer := [GrpWilliams,4,1]
-TblMonsterBash := [GrpWilliams,4,2]
-TblCreatureOfTheBlackLagoon := [GrpWilliams,4,3]
-TblTheAddamsFamily := [GrpWilliams,4,4]
+TblCirqusVoltaire := [GrpWilliams,4,0]
+TblTheatreOfMagic := [GrpWilliams,4,1]
+TblSpaceStation := [GrpWilliams,4,2]
+TblNoGoodGofers := [GrpWilliams,4,3]
+TblArabianNights := [GrpWilliams,4,4]
+
+TblTwilightZone := [GrpWilliams,5,0]
+TblIndianaJones := [GrpWilliams,5,1]
 
 ;--------------- Nickelodeon ------------------
 TblGarfieldPinball := [GrpNickelodeon,0,0]
 
 ;-------- Aliases as per zen's naming -----------
+Table_1 := TblMVCivilWar
 Table_2 := TblSWMastersOfTheForce
+Table_5 := TblMVFearItself
 Table_6 := TblSWStarfighterAssault
 Table_7 := TblMVThor
 Table_10 := TblSWHanSolo
 Table_12 := TblSWNewHope
+Table_17 := TblMVAvengers
 Table_21 := TblMVGhostRider
+Table_22 := TblMVDeadPool
 Table_23 := TblPasha
 Table_24 := TblSWReturnOfTheJedi
 Table_27 := TblBioLab
@@ -192,6 +224,7 @@ Table_28 := TblSWDarthVader
 Table_29 := TblAdventureLand
 Table_30 := TblDrStrange
 Table_31 := TblRome
+Table_33 := TblSorcerersLair
 Table_38 := TblFantasticFour
 Table_40 := TblCastleStorm
 Table_43 := TblSWEmpireStrikesBack
@@ -200,17 +233,25 @@ Table_46 := TblMVSpiderMan
 Table_47 := TblSWCloneWars
 Table_48 := TblMVCaptainAmerica
 Table_49 := TblMVMoonKnight
+Table_50 := TblMVGuardiansOfTheGalaxy
 Table_53 := TblSWBobaFett
+Table_56 := TblMVWorldWarHulk
 Table_58 := TblSWDroids
 Table_59 := TblXMen
+Table_60 := TblMVInfinityGauntlet
 Table_65 := TblMVIronMan
 Table_66 := TblSecretsOfTheDeep
 Table_71 := TblMVWolverine
+Table_73 := TblMVVenom
 Table_75 := TblWildWest
 Table_77 := TblSWRebels
+Table_78 := TblMVAvengersAgeOfUltron
+Table_79 := TblMVAntman
 Table_80 := TblSonOfZeus
 Table_88 := TblSWForceAwakens
 Table_89 := TblSWMightOfTheFirstOrder
+Table_93 := TblMVWomenOfPowerAForce
+Table_94 := TblMVWomenOfPowerChampions
 Table_95 := TblJaws
 Table_96 := TblET
 Table_97 := TblBackToTheFuture
@@ -223,6 +264,7 @@ Table_104 := TblSWAhchToIsland
 Table_105 := TblSWSolo
 Table_106 := TblSWCalrissianChronicles
 Table_107 := TblSWBattleOfMimban
+Table_108 := TblFishTales
 Table_109 := TblMedievalMadness
 Table_110 := TblJunkYard
 Table_111 := TblTheGetAway
@@ -261,14 +303,55 @@ Table_149 := TblSwordsOfFury
 Table_150 := TblHomeWorld
 Table_151 := TblBrotherInArms
 Table_152 := TblBorderlands
+Table_153 := TblKong
 Table_154 := TblWorldWarZ
 Table_155 := TblGrimTales
 Table_156 := TblTheAddamsFamily
 Table_157 := TblWorldCupSoccer
+Table_158 := TblGodzilla
+Table_160 := TblGodzillaVsKong
+Table_161 := TblCryptOfTheNecroDancer
+Table_162 := TblTwilightZone
 
 ;--------Run Before (Need to be compiled)----End------
- 
-Run, "com.epicgames.launcher://apps/56a31432931740cdb0112d237d7d65aa?action=launch&silent=true"
+
+tblname := ""
+tblmode := ""
+IsSteam := false
+Steam := A_Args[1]
+
+if (Steam = "Steam")
+{
+	IsSteam := true
+}
+
+if(IsSteam)
+{
+	tblname := A_Args[2]
+	tblmode := A_Args[3]
+}
+else
+{
+	tblname := A_Args[1]
+	tblmode := A_Args[2]
+}
+
+tbl := Eval(tblname)[1]
+if (tblmode = "")
+	tblmode := "Classic"
+
+if ((tblmode = "Pro") and !(tbl[1] = GrpWilliams))
+	tblmode := "Classic"
+
+if(IsSteam)
+{
+	RegRead, SteamDirPath, HKCU, Software\Valve\Steam, SteamPath
+	Run, "%SteamDirPath%\Steam.exe" -applaunch 2328760 
+}
+else
+{
+	Run, "com.epicgames.launcher://apps/56a31432931740cdb0112d237d7d65aa?action=launch&silent=true"
+}
 
 WinWait, PinballFX ahk_class UnrealWindow,, 120000
 if (ErrorLevel) 
@@ -500,7 +583,7 @@ SelectTable(Table) {
 	Send {RShift up}
 	Sleep, %KeyDelay%
 
-	Sleep, 750
+	Sleep, 1250
 
 	LoopGroupCount := (Table[1])
 
@@ -564,16 +647,8 @@ SelectTable(Table) {
 }
 
 
-tblname := A_Args[1]
-tblmode := A_Args[2]
-tbl := Eval(tblname)[1]
-if (tblmode = "")
-	tblmode := "Classic"
-
-if ((tblmode = "Pro") and !(tbl[1] = GrpWilliams))
-	tblmode := "Classic"
-
 GotoMenu()
+
 if (DoCabinetMode) 
 {
 	EnableCabinetMode()
