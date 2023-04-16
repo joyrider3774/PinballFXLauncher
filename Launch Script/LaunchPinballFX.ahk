@@ -585,6 +585,10 @@ SelectTable(Table) {
 
 	Sleep, 1250
 
+	ControlSend ,, {ESC}, PinballFX ahk_class UnrealWindow
+	
+	Sleep, 750
+
 	LoopGroupCount := (Table[1])
 
 	Loop, %LoopGroupCount%
@@ -604,13 +608,10 @@ SelectTable(Table) {
 
 	Sleep, 250
 
-	;need to send one right to be on table selection
-	Send {Right down}
-	Sleep, %KeyDelay%
-	Send {Right up}
-	Sleep, %KeyDelay%
+	;need to press Esc Again to close group selection and be on table selection
+	ControlSend ,, {ESC}, PinballFX ahk_class UnrealWindow
 
-	Sleep, 100
+	Sleep, 750
 
 	LoopRowCount := (Table[2])
 
@@ -636,6 +637,15 @@ SelectTable(Table) {
 
 	Sleep, 250
 
+	;select the table 
+	Send {Enter down}
+	Sleep, %KeyDelay%
+	Send {Enter up}
+	Sleep, %KeyDelay%
+
+	Sleep, 750
+	
+	;press play on table
 	Send {Enter down}
 	Sleep, %KeyDelay%
 	Send {Enter up}
