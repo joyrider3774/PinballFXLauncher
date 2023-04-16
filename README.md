@@ -4,7 +4,7 @@
 A Launch Autohotkey script for pinball FX that adds per table launching support. Plus a collection of docklet wheel images that go with it
 
 > **Warning**
-> It seems the order the tables appear in the game can vary between users even on the same platform and they are definatly different between multiple platforms like for example steam and epic. So i will only add the new tables to the script and update the table databases for easy import and adapt the script to my positions. This means you will have to modify the positions inside the autohotkey script yourself, based on how the tables appear in your install of the game! They might also change with each update that Zen releases!
+> It seems the order the tables appear in the game can vary between users even on the same platform and they are definatly different between multiple platforms like for example steam and epic. So i will only add the new tables to the script and update the table databases for easy import and adapt the script to my positions. This means you will have to modify the positions inside the autohotkey script yourself, based on how the tables appear in your install of the game when having a specific group selected! They might also change with each update that Zen releases!
 
 ## Release / Help Video
 
@@ -197,6 +197,9 @@ compile the provided script to an EXE and make sure it's working then use these 
 <IMG src="meta/pinballxsetings.png"/>
 
 ### Launch before & After script
+> **Warning**
+> These are no longer needed, you can rotate the playfield inside the game now! They are only kept for reference in case someone wants to rotate the screen externally!
+
 You will need a launch before to run some program to rotate your screen to portrait mode. I personally use irotate
 
 Launch before (bat):
