@@ -24,12 +24,12 @@ A Launch Autohotkey script for pinball FX that adds per table launching support.
 ## Usage
 Compile To Exe (check video above) then use these commands
 
-###For Epic Games game version:
+### For Epic Games game version:
 ```
 LaunchPinballFX.exe [TableName] [Mode]
 ```
 
-###For Steam game version:
+### For Steam game version:
 ```
 LaunchPinballFX.exe Steam [TableName] [Mode]
 ```
