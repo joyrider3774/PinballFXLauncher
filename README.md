@@ -194,7 +194,12 @@ You can use any of the listed Table Name values below for the `[TableName]` Para
 
 ### Pinball X Settings 
 compile the provided script to an EXE and make sure it's working then use these settings:
+
+#### Epic
 <IMG src="meta/pinballxsetings.png"/>
+
+#### Steam
+<IMG src="meta/pinballxsetings-steam.png"/>
 
 ### Launch before & After script
 > **Warning**
@@ -221,7 +226,6 @@ You can also use my [pinball launcher app](https://github.com/joyrider3774/Pinba
 
 ### Popper Settings 
 compile the provided script to an EXE and make sure it's working then add a new emulator using these settings and import the games from [exported game](https://raw.githubusercontent.com/joyrider3774/PinballFXLauncher/main/Databases/Popper/Export_Pinball%20FX.pupgames) list i made (Use right click save as)
-Also download Display.exe from this [zip file](https://www.nailbuster.com/uploads/PopperFXMirror.zip) made by NailBuster so you can rotate the screen. Extract this in `PinUPPopper\Launch` directory
 
 <IMG src="meta/poppersettings.png"/>
 
