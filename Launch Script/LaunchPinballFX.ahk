@@ -60,7 +60,7 @@ GrpNickelodeon := 16
 ;3rd element how many times to press right to select table
 
 ;--------------- Zen Originals ------------------
-TblSorcerersLair = [GrpZen,0,0]
+TblSorcerersLair := [GrpZen,0,0]
 TblWildWest := [GrpZen,0,1]
 TblCurseOfTheMummy := [GrpZen,0,2]
 TblWrathOfTheElderGods := [GrpZen,0,3]
@@ -78,7 +78,7 @@ TblPasha := [GrpZen,2,2]
 TblBioLab := [GrpZen,2,3]
 
 ;--------------- BaceYourself ------------------
-TblCryptOfTheNecroDancer = [GrpBraceYourself, 0,0]
+TblCryptOfTheNecroDancer := [GrpBraceYourself,0,0]
 
 ;--------------- DreamWorks ------------------
 TblDragonsPinball := [GrpDreamWorks,0,0]
@@ -94,9 +94,9 @@ TblBorderlands := [GrpGearBox,0,2]
 TblMyLittlePony := [GrpHasBro,0,0]
 
 ;--------------- Legendary ------------------
-TblGodzilla = [GrpLegendary,0,0]
-TblKong = [GrpLegendary,0,1];
-TblGodzillaVsKong = [GrpLegendary,0,2];
+TblGodzilla := [GrpLegendary,0,0]
+TblKong := [GrpLegendary,0,1]
+TblGodzillaVsKong := [GrpLegendary,0,2]
 
 ;--------------- Marvel ------------------
 TblMVDeadPool := [GrpMarvel,0,0]
@@ -170,38 +170,39 @@ TblJurassicParkPinball := [GrpUniversal,0,4]
 TblJurassicParkPinballMayhem := [GrpUniversal,1,0]
 
 ;--------------- Williams ------------------
-TblFishTales := [GrpWilliams,0,0]
-TblJunkYard := [GrpWilliams,0,1]
-TblBlackRose := [GrpWilliams,0,2]
+TblTwilightZone := [GrpWilliams,0,0]
+TblFishTales := [GrpWilliams,0,1]
+TblJunkYard := [GrpWilliams,0,2]
 TblAttackFromMars := [GrpWilliams,0,3]
 TblPartyZone := [GrpWilliams,0,4]
 
 TblTheGetAway := [GrpWilliams,1,0]
 TblMedievalMadness := [GrpWilliams,1,1]
-TblSafeCracker := [GrpWilliams,1,2]
-TblTheMachineBrideOfPinBot := [GrpWilliams,1,3]
-TblWorldCupSoccer := [GrpWilliams,1,4]
+TblBlackRose := [GrpWilliams,1,2]
+TblIndianaJones := [GrpWilliams,1,3]
+TblTheMachineBrideOfPinBot := [GrpWilliams,1,4]
 
-TblMonsterBash := [GrpWilliams,2,0]
-TblCreatureOfTheBlackLagoon := [GrpWilliams,2,1]
-TblTheAddamsFamily := [GrpWilliams,2,2]
-TblChampionPub := [GrpWilliams,2,3]
-TblDrDude := [GrpWilliams,2,4]
+TblWorldCupSoccer := [GrpWilliams,2,0]
+TblMonsterBash := [GrpWilliams,2,1]
+TblCreatureOfTheBlackLagoon := [GrpWilliams,2,2]
+TblTheAddamsFamily := [GrpWilliams,2,3]
+TblChampionPub := [GrpWilliams,2,4]
 
-TblWhiteWater := [GrpWilliams,3,0]
-TblSwordsOfFury := [GrpWilliams,3,1]
-TblRoadShow := [GrpWilliams,3,2]
-TblHurricane := [GrpWilliams,3,3]
-TblFunHouse := [GrpWilliams,3,4]
+TblDrDude := [GrpWilliams,3,0]
+TblWhiteWater := [GrpWilliams,3,1]
+TblSwordsOfFury := [GrpWilliams,3,2]
+TblRoadShow := [GrpWilliams,3,3]
+TblHurricane := [GrpWilliams,3,4]
 
-TblCirqusVoltaire := [GrpWilliams,4,0]
-TblTheatreOfMagic := [GrpWilliams,4,1]
+TblFunHouse := [GrpWilliams,4,0]
+TblSafeCracker := [GrpWilliams,4,1]
 TblSpaceStation := [GrpWilliams,4,2]
 TblNoGoodGofers := [GrpWilliams,4,3]
 TblArabianNights := [GrpWilliams,4,4]
 
-TblTwilightZone := [GrpWilliams,5,0]
-TblIndianaJones := [GrpWilliams,5,1]
+TblTheatreOfMagic := [GrpWilliams,5,0]
+TblCirqusVoltaire := [GrpWilliams,5,1]
+
 
 ;--------------- Nickelodeon ------------------
 TblGarfieldPinball := [GrpNickelodeon,0,0]
@@ -695,4 +696,3 @@ killApp:
 	WinKill, PinballFX ahk_class UnrealWindow
 	Run, taskkill /F /IM PinballFX-Win64-Shipping.exe /T,, Hide
 Return
-
