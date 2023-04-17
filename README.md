@@ -24,12 +24,12 @@ A Launch Autohotkey script for pinball FX that adds per table launching support.
 ## Usage
 Compile To Exe (check video above) then use these commands
 
-###For Epic Games game version:
+### For Epic Games game version:
 ```
 LaunchPinballFX.exe [TableName] [Mode]
 ```
 
-###For Steam game version:
+### For Steam game version:
 ```
 LaunchPinballFX.exe Steam [TableName] [Mode]
 ```
@@ -220,7 +220,7 @@ powershell -Command "Start-Process 'irotate.exe' '/2:rotate=0 /exit' -Verb runAs
 ## Cabinet setup pinball X using my Launcher app
 ![pinball FX launcher app](https://github.com/joyrider3774/PinballX_Launcher_app/raw/master/other_games/Pinball%20FX/launcher.png)
 
-You can also use my [pinball launcher app](https://github.com/joyrider3774/PinballX_Launcher_app/tree/master/other_games/Pinball%20FX) with a specific ini file for this launch script to select all the new game modes more easily if your frontend does not support selecting these by default. I think pinup popper does have these options, but pinball x/y does not.
+You can also use my [pinball launcher app (Epic)](https://github.com/joyrider3774/PinballX_Launcher_app/tree/master/other_games/Pinball%20FX) or [pinball launcher app (Steam)](https://github.com/joyrider3774/PinballX_Launcher_app/tree/master/other_games/Pinball%20FX%20Steam) with a specific ini file for this launch script to select all the new game modes more easily if your frontend does not support selecting these by default. I think pinup popper does have these options, but pinball x/y does not.
 
 ## Cabinet setup Pinup Popper
 
