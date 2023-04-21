@@ -1,1286 +1,1553 @@
 <menu>
-	<game name="TblAdventureLand">
-		<description>Adventure Land</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVAntman">
-		<description>Ant-Man</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblArabianNights">
-		<description>Arabian Nights</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblAttackFromMars">
-		<description>Attack From Mars</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVAvengers">
-		<description>Avengers</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblMVAvengersAgeOfUltron">
-		<description>Avengers Age Of Ultron</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblBackToTheFuture">
-		<description>Back To The Future</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblBioLab">
-		<description>Bio Lab</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblBlackRose">
-		<description>Black Rose</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVBlade">
-		<description>Blade</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblBorderlands">
-		<description>Borderlands: Vault Hunter Pinball</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblBrotherInArms">
-		<description>Brother In Arms: Win The War Pinball</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVCaptainAmerica">
-		<description>Captain America</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblCastleStorm">
-		<description>Castle Storm</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblChampionPub">
-		<description>Champion Pub</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVCivilWar">
-		<description>Civil War</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblCirqusVoltaire">
-		<description>Crcus Voltaire</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblCreatureOfTheBlackLagoon">
-		<description>Creature from the Black Lagoon</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblCryptOfTheNecroDancer">
-		<description>Crypt of the Necrodancer</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblCurseOfTheMummy">
-		<description>Curse of the Mummy</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblDaily1">
-		<description>Daily Free 1</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblDaily2">
-		<description>Daily Free 2</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVDeadPool">
-		<description>Deadpool</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblDrDude">
-		<description>Dr Dude</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVDrStrange">
-		<description>Dr. Strange</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblET">
-		<description>E.T.</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVFantasticFour">
-		<description>Fantastic Four</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVFearItself">
-		<description>Fear Itself</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblFishTales">
-		<description>Fish Tales</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblFunHouse">
-		<description>Fun House</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblGarfieldPinball">
-		<description>Garfield Pinball</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVGhostRider">
-		<description>Ghost-Rider</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblGodzilla">
-		<description>Godzilla</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblGodzillaVsKong">
-		<description>Godzilla vs Kong</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblGrimTales">
-		<description>Grim Tales</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVGuardiansOfTheGalaxy">
-		<description>Guardians Of The Galaxy</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblHomeWorld">
-		<description>Home World</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblDragonsPinball">
-		<description>How To Train Your Dragon Pinball</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblHurricane">
-		<description>Hurricane</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblIndianaJones">
-		<description>Indiana Jones</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVInfinityGauntlet">
-		<description>Infinity Gauntlet</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblMVIronMan">
-		<description>Iron-Man</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblJaws">
-		<description>Jaws</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblJunkYard">
-		<description>Junk Yard</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblJurassicParkPinball">
-		<description>Jurassic Park Pinbal</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblJurassicParkPinballMayhem">
-		<description>Jurassic Park Pinball Mayhem</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblJurassicWorld">
-		<description>Jurassic World</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblKong">
-		<description>Kong</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblKungFuPandaPinball">
-		<description>Kung Fu Panda Pinball</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMedievalMadness">
-		<description>Medieval Madness</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMonsterBash">
-		<description>Monster Bash</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVMoonKnight">
-		<description>Moon Knight</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMyLittlePony">
-		<description>My Little Pony</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblNoGoodGofers">
-		<description>No Good Goofers</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblPartyZone">
-		<description>Party Zone</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblPasha">
-		<description>Pasha</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblPinballNoir">
-		<description>Pinball Noir</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblRoadShow">
-		<description>Road Show</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblRome">
-		<description>Rome</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSafeCracker">
-		<description>Safe Cracker</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSecretsOfTheDeep">
-		<description>Secrets of the Deep</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSkyPirates">
-		<description>Sky Pirates</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSnoopyPinball">
-		<description>Snoopy Pinball</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSonOfZeus">
-		<description>Son Of Zeus</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSorcerersLair">
-		<description>Sorcerer&apos;s Lair</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblSpaceStation">
-		<description>Space Station</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVSpiderMan">
-		<description>Spider-Man</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWNewHope">
-		<description>Star Wars A New Hope</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWAhchToIsland">
-		<description>Star Wars Ahch-To Island</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWBattleOfMimban">
-		<description>Star Wars Battle Of Mimban</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWBobaFett">
-		<description>Star Wars Boba Fett</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWCalrissianChronicles">
-		<description>Star Wars Calrissian Chronicles</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWClassicCollectibles">
-		<description>Star Wars Classic Collectibles</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWCloneWars">
-		<description>Star Wars Clone Wars</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWDarthVader">
-		<description>Star Wars Darth Vader</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWDroids">
-		<description>Star Wars Droids</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWHanSolo">
-		<description>Star Wars Han Solo</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWMastersOfTheForce">
-		<description>Star Wars Masters Of The Force</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWMightOfTheFirstOrder">
-		<description>Star Wars Might Of The First Order</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWRebels">
-		<description>Star Wars Rebels</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWReturnOfTheJedi">
-		<description>Star Wars Return Of The Jedi</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWRogueOne">
-		<description>Star Wars Rogue One</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWSolo">
-		<description>Star Wars Solo</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWStarfighterAssault">
-		<description>Star Wars Starfighter Assault</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWEmpireStrikesBack">
-		<description>Star Wars The Empire Strikes Back</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWForceAwakens">
-		<description>Star Wars The Force Awakens</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWTheLastJedi">
-		<description>Star Wars The Last Jedi</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSWMandalorian">
-		<description>Star Wars The Mandalorian</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblSwordsOfFury">
-		<description>Swords of Fury</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblTheAddamsFamily">
-		<description>The Addams Family</description>
-		<rom></rom>
-		<manufacturer>Williams</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblTheGetAway">
-		<description>The Get Away</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblTheMachineBrideOfPinBot">
-		<description>The Machine: Bride of Pinbot</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblTheatreOfMagic">
-		<description>Theatre Of Magic</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVThor">
-		<description>Thor</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblTrollsPinball">
-		<description>Trolls Pinball</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblTwilightZone">
-		<description>Twilight Zone</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblMVVenom">
-		<description>Venom</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblWhiteWater">
-		<description>White Water</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblWildWest">
-		<description>Wild West Rampage</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVWolverine">
-		<description>Wolverine</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVWomenOfPowerAForce">
-		<description>Women of Power A-Force</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblMVWomenOfPowerChampions">
-		<description>Women of Power Champions</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblWorldCupSoccer">
-		<description>World Cup Soccer</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVWorldWarHulk">
-		<description>World War Hulk</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>-2</rating>
-	</game>
-	<game name="TblWorldWarZ">
-		<description>World War Z</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblWrathOfTheElderGods">
-		<description>Wrath Of The Elder Gods</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
-	<game name="TblMVXMen">
-		<description>X-Men</description>
-		<rom></rom>
-		<manufacturer>Zen Studios</manufacturer>
-		<year></year>
-		<type></type>
-		<hidedmd>True</hidedmd>
-		<hidetopper>True</hidetopper>
-		<hidebackglass>True</hidebackglass>
-		<enabled>True</enabled>
-		<rating>0</rating>
-	</game>
+  <game name="TblAdventureLand">
+    <description>Adventure Land</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2017</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVAntman">
+    <description>Ant-Man</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2015</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblAttackFromMars">
+    <description>Attack From Mars</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1995</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Aliens - Martians - Fantasy</theme>
+    <IPDBnr>3781</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVAvengersAgeOfUltron">
+    <description>Avengers: Age of Ultron</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2015</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblBackToTheFuture">
+    <description>Back To The Future</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2017</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblBioLab">
+    <description>Bio Lab</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2010</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblBlackRose">
+    <description>Black Rose</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1992</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Fantasy - Pirates - Fictional</theme>
+    <IPDBnr>313</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVBlade">
+    <description>Blade</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2010</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblBorderlands">
+    <description>Borderlands: Vault Hunter Pinball</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2023</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblBrotherInArms">
+    <description>Brother In Arms: Win The War Pinball</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2023</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVCaptainAmerica">
+    <description>Captain America</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2011</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblCastleStorm">
+    <description>Castle Storm</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2015</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblChampionPub">
+    <description>Champion Pub</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1998</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Sports - Boxing</theme>
+    <IPDBnr>4358</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVCivilWar">
+    <description>Civil War</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2012</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblCirqusVoltaire">
+    <description>Crcus Voltaire</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1997</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Circus - Carnival</theme>
+    <IPDBnr>4059</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblCreatureOfTheBlackLagoon">
+    <description>Creature from the Black Lagoon</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1992</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Drive-In Movies - Fictional - Licensed Theme</theme>
+    <IPDBnr>588</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblCryptOfTheNecroDancer">
+    <description>Crypt of the Necrodancer</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2023</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblCurseOfTheMummy">
+    <description>Curse of the Mummy</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2022</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVDeadPool">
+    <description>Deadpool</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2014</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVDrStrange">
+    <description>Doctor Strange</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2013</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblDrDude">
+    <description>Dr Dude</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1990</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Science Fiction</theme>
+    <IPDBnr>737</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblET">
+    <description>E.T. the Extra-Terrestrial</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2017</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVFantasticFour">
+    <description>Fantastic Four</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2011</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVFearItself">
+    <description>Fear Itself</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2012</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblFishTales">
+    <description>Fish Tales</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1992</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <players>4</players>
+    <theme>Sports - Fishing</theme>
+    <IPDBnr>861</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblFunHouse">
+    <description>Fun House</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1990</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Happiness - Circus - Carnival</theme>
+    <IPDBnr>966</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblGarfieldPinball">
+    <description>Garfield Pinball</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2021</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVGhostRider">
+    <description>Ghost-Rider</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2011</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblGodzilla">
+    <description>Godzilla</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2023</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblGodzillaVsKong">
+    <description>Godzilla vs Kong</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2023</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblGrimTales">
+    <description>Grim Tales</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2022</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVGuardiansOfTheGalaxy">
+    <description>Guardians Of The Galaxy</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2014</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblHomeWorld">
+    <description>Home World</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2022</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblDragonsPinball">
+    <description>How To Train Your Dragon Pinball</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2021</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblHurricane">
+    <description>Hurricane</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1991</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Happiness - Circus - Carnival</theme>
+    <IPDBnr>1257</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblIndianaJones">
+    <description>Indiana Jones</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1993</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Adventure - Fictional - Licensed Theme</theme>
+    <IPDBnr>1267</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVIronMan">
+    <description>Iron-Man</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2010</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblJaws">
+    <description>Jaws</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2017</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblJunkYard">
+    <description>Junk Yard</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1996</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Fantasy</theme>
+    <IPDBnr>4014</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblJurassicParkPinball">
+    <description>Jurassic Park Pinbal</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2018</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblJurassicParkPinballMayhem">
+    <description>Jurassic Park Pinball Mayhem</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2018</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblJurassicWorld">
+    <description>Jurassic World</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2018</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblKong">
+    <description>Kong</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2023</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblKungFuPandaPinball">
+    <description>Kung Fu Panda Pinball</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2021</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMedievalMadness">
+    <description>Medieval Madness</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1997</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Fantasy - Medieval - Wizards - Magic</theme>
+    <IPDBnr>4032</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMonsterBash">
+    <description>Monster Bash</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1998</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Horror - Licensed Theme</theme>
+    <IPDBnr>4441</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVMoonKnight">
+    <description>Moon Knight</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2011</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMyLittlePony">
+    <description>My Little Pony</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2021</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblNoGoodGofers">
+    <description>No Good Goofers</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1997</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Sports - Golf</theme>
+    <IPDBnr>4338</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblPasha">
+    <description>Pasha</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2010</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblPinballNoir">
+    <description>Pinball Noir</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2022</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblRoadShow">
+    <description>Road Show</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1994</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Travel</theme>
+    <IPDBnr>1972</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblRome">
+    <description>Rome</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2010</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSafeCracker">
+    <description>Safe Cracker</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1996</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Cops and Robbers - Money</theme>
+    <IPDBnr>3782</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSecretsOfTheDeep">
+    <description>Secrets of the Deep</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2010</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSkyPirates">
+    <description>Sky Pirates</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2022</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSnoopyPinball">
+    <description>Snoopy Pinball</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2021</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSonOfZeus">
+    <description>Son Of Zeus</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2017</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSorcerersLair">
+    <description>Sorcerer's Lair</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2011</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSpaceStation">
+    <description>Space Station</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1987</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Outer Space</theme>
+    <IPDBnr>2261</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVSpiderMan">
+    <description>Spider-Man</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2010</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWNewHope">
+    <description>Star Wars A New Hope</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2014</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWAhchToIsland">
+    <description>Star Wars Ahch-To Island</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2018</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWBattleOfMimban">
+    <description>Star Wars Battle Of Mimban</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2018</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWBobaFett">
+    <description>Star Wars Boba Fett</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2013</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWCalrissianChronicles">
+    <description>Star Wars Calrissian Chronicles</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2018</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWClassicCollectibles">
+    <description>Star Wars Classic Collectibles</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2021</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWDarthVader">
+    <description>Star Wars Darth Vader</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2013</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWDroids">
+    <description>Star Wars Droids</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2014</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWHanSolo">
+    <description>Star Wars Han Solo</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2014</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWMastersOfTheForce">
+    <description>Star Wars Masters Of The Force</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2014</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWMightOfTheFirstOrder">
+    <description>Star Wars Might Of The First Order</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2016</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWRebels">
+    <description>Star Wars Rebels</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2015</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWReturnOfTheJedi">
+    <description>Star Wars Return Of The Jedi</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2013</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWRogueOne">
+    <description>Star Wars Rogue One</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2017</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWSolo">
+    <description>Star Wars Solo</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2018</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWStarfighterAssault">
+    <description>Star Wars Starfighter Assault</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2013</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWCloneWars">
+    <description>Star Wars The Clone Wars</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2013</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWEmpireStrikesBack">
+    <description>Star Wars The Empire Strikes Back</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2013</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWForceAwakens">
+    <description>Star Wars The Force Awakens</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2016</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWTheLastJedi">
+    <description>Star Wars The Last Jedi</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2018</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSWMandalorian">
+    <description>Star Wars The Mandalorian</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2021</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblSwordsOfFury">
+    <description>Swords of Fury</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1988</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Fantasy - Knights - Wizard - Magic - Medieval</theme>
+    <IPDBnr>2486</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblArabianNights">
+    <description>Tales Of The Arabian Nights</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1996</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Fantasy - Myth and Legend</theme>
+    <IPDBnr>3824</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblTheAddamsFamily">
+    <description>The Addams Family</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1992</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Celebrities - Fictional - Licensed Theme</theme>
+    <IPDBnr>20</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVAvengers">
+    <description>The Avengers</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2012</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblTheGetAway">
+    <description>The Get Away</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1992</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Cops - Driving - Police - Speeding</theme>
+    <IPDBnr>1000</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVInfinityGauntlet">
+    <description>The Infinity Gauntlet</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2012</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblTheMachineBrideOfPinBot">
+    <description>The Machine: Bride of Pinbot</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1991</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Fantasy - Outer Space</theme>
+    <IPDBnr>1502</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblPartyZone">
+    <description>The Party Zone</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1991</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Happiness</theme>
+    <IPDBnr>1764</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblTheatreOfMagic">
+    <description>Theatre Of Magic</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1995</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Show Business - Magic</theme>
+    <IPDBnr>2845</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVThor">
+    <description>Thor</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2011</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblTrollsPinball">
+    <description>Trolls</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2021</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblTwilightZone">
+    <description>Twilight Zone</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1993</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <players>4</players>
+    <theme>Adventure - Supernatural - Licensed Theme</theme>
+    <IPDBnr>2684</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVVenom">
+    <description>Venom</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2014</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblWhiteWater">
+    <description>White Water</description>
+    <rom></rom>
+    <manufacturer>Williams</manufacturer>
+    <year>1993</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Rafting -Water Sports -Myth and Legend</theme>
+    <IPDBnr>2768</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblWildWest">
+    <description>Wild West Rampage</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2015</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVWolverine">
+    <description>Wolverine</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2010</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVWomenOfPowerAForce">
+    <description>Women of Power A-Force</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2016</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVWomenOfPowerChampions">
+    <description>Women of Power Champions</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2016</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblWorldCupSoccer">
+    <description>World Cup Soccer</description>
+    <rom></rom>
+    <manufacturer>Bally</manufacturer>
+    <year>1994</year>
+    <type>SS</type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <players>4</players>
+    <theme>Sports - Soccer</theme>
+    <IPDBnr>2811</IPDBnr>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVWorldWarHulk">
+    <description>World War Hulk</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2012</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>-1</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblWorldWarZ">
+    <description>World War Z</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2022</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblWrathOfTheElderGods">
+    <description>Wrath Of The Elder Gods</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2022</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
+  <game name="TblMVXMen">
+    <description>X-Men</description>
+    <rom></rom>
+    <manufacturer>Zen Studios</manufacturer>
+    <year>2011</year>
+    <type></type>
+    <hidedmd>True</hidedmd>
+    <hidetopper>True</hidetopper>
+    <hidebackglass>True</hidebackglass>
+    <enabled>True</enabled>
+    <rating>0</rating>
+    <dateadded>1900-01-01 00:00:00</dateadded>
+    <datemodified>1900-01-01 00:00:00</datemodified>
+  </game>
 </menu>
