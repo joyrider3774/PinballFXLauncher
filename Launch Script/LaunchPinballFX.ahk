@@ -1,4 +1,4 @@
-; Created by joyrider 3774 05/11/2022  
+; Created by joyrider3774 28/04/2023  
 ;--------Run Before (Need to be compiled)----Start------
 
 #SingleInstance force
@@ -60,22 +60,22 @@ GrpNickelodeon := 16
 ;3rd element how many times to press right to select table
 
 ;--------------- Zen Originals ------------------
-TblSorcerersLair := [GrpZen,0,0]
-TblWildWest := [GrpZen,0,1]
-TblCurseOfTheMummy := [GrpZen,0,2]
-TblWrathOfTheElderGods := [GrpZen,0,3]
-TblGrimTales := [GrpZen,0,4]
+TblAdventureLand := [GrpZen,0,0]
+TblWrathOfTheElderGods := [GrpZen,0,1]
+TblGrimTales := [GrpZen,0,2]
+TblSkyPirates := [GrpZen,0,3]
+TblPinballNoir := [GrpZen,0,4]
 
-TblSkyPirates := [GrpZen,1,0]
-TblPinballNoir := [GrpZen,1,1]
-TblCastleStorm := [GrpZen,1,2]
-TblAdventureLand := [GrpZen,1,3]
-TblSonOfZeus := [GrpZen,1,4]
+TblCurseOfTheMummy := [GrpZen,1,0]
+TblCastleStorm := [GrpZen,1,1]
+TblSonOfZeus := [GrpZen,1,2]
+TblSecretsOfTheDeep := [GrpZen,1,3]
+TblRome := [GrpZen,1,4]
 
-TblSecretsOfTheDeep := [GrpZen,2,0]
-TblRome := [GrpZen,2,1]
-TblPasha := [GrpZen,2,2]
-TblBioLab := [GrpZen,2,3]
+TblSorcerersLair := [GrpZen,2,0]
+TblPasha := [GrpZen,2,1]
+TblBioLab := [GrpZen,2,2]
+TblWildWest := [GrpZen,2,3]
 
 ;--------------- BaceYourself ------------------
 TblCryptOfTheNecroDancer := [GrpBraceYourself,0,0]
@@ -170,39 +170,38 @@ TblJurassicParkPinball := [GrpUniversal,0,4]
 TblJurassicParkPinballMayhem := [GrpUniversal,1,0]
 
 ;--------------- Williams ------------------
-TblTwilightZone := [GrpWilliams,0,0]
-TblFishTales := [GrpWilliams,0,1]
-TblJunkYard := [GrpWilliams,0,2]
-TblAttackFromMars := [GrpWilliams,0,3]
-TblPartyZone := [GrpWilliams,0,4]
+TblMedievalMadness := [GrpWilliams,0,0]
+TblBlackRose := [GrpWilliams,0,1]
+TblAttackFromMars := [GrpWilliams,0,2]
+TblPartyZone := [GrpWilliams,0,3]
+TblTheGetAway := [GrpWilliams,0,4]
 
-TblTheGetAway := [GrpWilliams,1,0]
-TblMedievalMadness := [GrpWilliams,1,1]
-TblBlackRose := [GrpWilliams,1,2]
-TblIndianaJones := [GrpWilliams,1,3]
-TblTheMachineBrideOfPinBot := [GrpWilliams,1,4]
+TblJunkYard := [GrpWilliams,1,0]
+TblIndianaJones := [GrpWilliams,1,1]
+TblSafeCracker := [GrpWilliams,1,2]
+TblTheMachineBrideOfPinBot := [GrpWilliams,1,3]
+TblWorldCupSoccer := [GrpWilliams,1,4]
 
-TblWorldCupSoccer := [GrpWilliams,2,0]
-TblMonsterBash := [GrpWilliams,2,1]
-TblCreatureOfTheBlackLagoon := [GrpWilliams,2,2]
-TblTheAddamsFamily := [GrpWilliams,2,3]
-TblChampionPub := [GrpWilliams,2,4]
+TblMonsterBash := [GrpWilliams,2,0]
+TblCreatureOfTheBlackLagoon := [GrpWilliams,2,1]
+TblTheAddamsFamily := [GrpWilliams,2,2]
+TblChampionPub := [GrpWilliams,2,3]
+TblFunHouse := [GrpWilliams,2,4]
 
-TblDrDude := [GrpWilliams,3,0]
-TblWhiteWater := [GrpWilliams,3,1]
-TblSwordsOfFury := [GrpWilliams,3,2]
-TblRoadShow := [GrpWilliams,3,3]
-TblHurricane := [GrpWilliams,3,4]
+TblWhiteWater := [GrpWilliams,3,0]
+TblSwordsOfFury := [GrpWilliams,3,1]
+TblRoadShow := [GrpWilliams,3,2]
+TblHurricane := [GrpWilliams,3,3]
+TblDrDude := [GrpWilliams,3,4]
 
-TblFunHouse := [GrpWilliams,4,0]
-TblSafeCracker := [GrpWilliams,4,1]
-TblSpaceStation := [GrpWilliams,4,2]
-TblNoGoodGofers := [GrpWilliams,4,3]
-TblArabianNights := [GrpWilliams,4,4]
+TblSpaceStation := [GrpWilliams,4,0]
+TblCirqusVoltaire := [GrpWilliams,4,1]
+TblNoGoodGofers := [GrpWilliams,4,2]
+TblArabianNights := [GrpWilliams,4,3]
+TblTwilightZone := [GrpWilliams,4,4]
 
-TblTheatreOfMagic := [GrpWilliams,5,0]
-TblCirqusVoltaire := [GrpWilliams,5,1]
-
+TblFishTales := [GrpWilliams,5,0]
+TblTheatreOfMagic := [GrpWilliams,5,1]
 
 ;--------------- Nickelodeon ------------------
 TblGarfieldPinball := [GrpNickelodeon,0,0]
