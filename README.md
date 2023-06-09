@@ -11,7 +11,9 @@
 - [Tables](TablesPreview.md)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 EVERYTHING BELOW IS DEPRECATED see https://www.pinballfx.com/?page_id=7754
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A Launch Autohotkey script for pinball FX that adds per table launching support. Plus a collection of docklet wheel images that go with it
