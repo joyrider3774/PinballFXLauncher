@@ -2,8 +2,17 @@
 [![Download Latest Version](https://img.shields.io/github/v/tag/joyrider3774/PinballFXLauncher?label=Latest%20version&style=plastic)](https://github.com/joyrider3774/PinballFXLauncher/releases "Download Latest Version") ![License](https://img.shields.io/github/license/joyrider3774/PinballFXLauncher?style=plastic)
 
 > **Warning**
-> THIS IS DEPRECATED PINBALL FX SUPPORTS DIRECT LAUNCH NOW !!! SEE THIS URL https://www.pinballfx.com/?page_id=7754 I have also renamed all media to the names the game uses (so a numeric value filename)
+> THIS IS DEPRECATED PINBALL FX SUPPORTS DIRECT LAUNCH NOW !!! SEE THIS URL https://www.pinballfx.com/?page_id=7754, You can still use the media, I have renamed all media to the names the game uses (so a numeric value filename)
 
+## Media Preview:
+- [Tarcisio Wheels](TarcisioWheelsPreview.md)
+- [Docklet Wheels](DockletWheelsPreview.md)
+- [Backglasses](BackglassesPreview.md)
+- [Tables](TablesPreview.md)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EVERYTHING BELOW IS DEPRECATED see https://www.pinballfx.com/?page_id=7754
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A Launch Autohotkey script for pinball FX that adds per table launching support. Plus a collection of docklet wheel images that go with it
 
@@ -19,11 +28,6 @@ A Launch Autohotkey script for pinball FX that adds per table launching support.
 [![Pinball FX Launcher Pinup Popper Helper Video](http://img.youtube.com/vi/XlcSQ_hOWcA/0.jpg)](https://youtu.be/XlcSQ_hOWcA "Pinball FX Launcher Pinup Popper Helper Video")
 
 
-## Media Preview:
-- [Tarcisio Wheels](TarcisioWheelsPreview.md)
-- [Docklet Wheels](DockletWheelsPreview.md)
-- [Backglasses](BackglassesPreview.md)
-- [Tables](TablesPreview.md)
 
 ## Usage
 Compile To Exe (check video above) then use these commands
