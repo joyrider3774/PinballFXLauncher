@@ -1,6 +1,10 @@
 # Pinball FX Launcher 
 [![Download Latest Version](https://img.shields.io/github/v/tag/joyrider3774/PinballFXLauncher?label=Latest%20version&style=plastic)](https://github.com/joyrider3774/PinballFXLauncher/releases "Download Latest Version") ![License](https://img.shields.io/github/license/joyrider3774/PinballFXLauncher?style=plastic)
 
+> **Warning**
+> THIS IS DEPRECATED PINBALL FX SUPPORTS DIRECT LAUNCH NOW !!! SEE THIS URL https://www.pinballfx.com/?page_id=7754 I have also renamed all media to the names the game uses (so a numeric value filename)
+
+
 A Launch Autohotkey script for pinball FX that adds per table launching support. Plus a collection of docklet wheel images that go with it
 
 > **Warning**
