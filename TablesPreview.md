@@ -8,7 +8,7 @@
 <img width="192" height="108" src="Media/Table%20Images/141.png"> <img width="192" height="108" src="Media/Table%20Images/139.png"> <img width="192" height="108" src="Media/Table%20Images/140.png">
 
 ## Hasbro
-<img width="192" height="108" src="Media/Table%20Images/TblMyLittlePony.png">
+<img width="192" height="108" src="Media/Table%20Images/138.png">
 
 ## Legendary
 <img width="192" height="108" src="Media/Table%20Images/158.png"> <img width="192" height="108" src="Media/Table%20Images/160.png"> <img width="192" height="108" src="Media/Table%20Images/153.png">
