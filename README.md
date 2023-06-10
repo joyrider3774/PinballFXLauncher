@@ -308,3 +308,4 @@ taskkill /f /IM ffplay.exe
 - Certain backglasses are from promotional images from Zen Studios.
 - I Edited certain backglasses, i tried to either remove PFX2/3 logos or replace it with a pinball FX Logo
 - On certain other backglasses i added a "Table" logo as i prefer to see the table names in the backglasses.
+- a samurai's vengance and verne's mysterious island backglasses taken from [this reddit post](https://www.reddit.com/r/PinballFX3/comments/1459hak/honor_and_legacy_cabinet_backglass/)
